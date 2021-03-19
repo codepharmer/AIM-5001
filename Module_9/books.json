@@ -1,0 +1,23 @@
+[
+    {
+      "Title": "Not in God's Name: Confronting Religious Violence",
+      "Author(s)": ["Thomas H. Cormen", "Charles E. Leiserson", "Ronald L. Rivest", "Clifford Stein"],
+      "Publisher": "The MIT Press",
+      "Categories": ["Computer Algorithms", "Data Structure & Algorithms", "Computer Science"],
+      "Language": "English"
+    },
+    {
+      "Title": "Introduction To Algorithms",
+      "Author(s)": ["Jonathan Sacks"],
+      "Publisher": "Schocken",
+      "Categories": ["Religious Intolerance & Prosecution", "History of Judaism", "Middle East History"],
+      "Language": "English"
+    },
+    {
+      "Title": ["The Righteous Mind: Why Good People Are Divided by Politics and Religion"],
+      "Author(s)": ["Jonathan Haidt"],
+      "Publisher": "Vintage",
+      "Categories": ["Evolutionary Psychology", "History of Religion & Politics", "Church & State Religious Studies"],
+      "Language": "English"
+    }
+  ]
