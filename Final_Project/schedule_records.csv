@@ -1,0 +1,1238 @@
+ShiftDate,ShiftType,Staff,Residents,HouseDuty,FireDuty,FloorWatch
+,,,,,,
+2019-12-06,FRI_PM,Zachery Perlstein,NL,"Sanitizing,Restocking",1,3e
+2019-12-06,FRI_PM,Pinhas Adout,"ZW,YE",House help,2,2l
+2019-12-06,FRI_PM,Zach Shulman,"AE,BC","Empty bookbags,Boxes",3,
+2019-12-06,FRI_PM,Sruly A,"SI,YF","Living room,Basement cleanup",B,3l
+2019-12-06,FRI_PM,Nesanel First,"MB,VW",Kitchen,MA,2e
+2019-12-06,FRI_PM,Nosson Weissman,"DF,CR","1st floor,Elevator clean up",2,
+2019-12-06,FRI_PM,,,Kitchen help,3,
+2019-12-06,FRI_PM,Yaakov Abeaziz,YM,AMAP,FB,
+2019-12-07,SHAB_AM,Zachery Perlstein,"DF,BC",,1,
+2019-12-07,SHAB_AM,Sruly A,"ZW,VW",,2,
+2019-12-07,SHAB_AM,Zach Shulman,SI,,3,
+2019-12-07,SHAB_AM,Yaakov Abeaziz,"CR,YE",,B,
+2019-12-07,SHAB_AM,Nesanel First,"AE,YM",,MA,
+2019-12-07,SHAB_AM,Nosson Weissman,"MB,YF",,2,
+2019-12-07,SHAB_AM,Sruli Teitelbaum,NL,,3,
+2019-12-07,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2019-12-07,SHAB_PM,Zachery Perlstein,"ZW,VW","Living room,Basement",1,3l
+2019-12-07,SHAB_PM,Pinhas Adout,BC,"House help,Basement",2,
+2019-12-07,SHAB_PM,Zach Shulman,NL,Restocking,3,3e
+2019-12-07,SHAB_PM,Yaakov Abeaziz,"DF,YF","1st floor,Elevator",B,2e
+2019-12-07,SHAB_PM,Nesanel First,"YE,MB",Bookbags,MA,
+2019-12-07,SHAB_PM,Nosson Weissman,SI,"Kitchen AM,Sanitizing",2,
+2019-12-07,SHAB_PM,Sruli Teitelbaum,"AE,CR",Kitchen PM,3,2l
+2019-12-07,SHAB_PM,Sruly A,YM,AMAP,FB,
+2019-12-13,FRI_PM,Zach Shulman,NL,Sanitizing,1,3e
+2019-12-13,FRI_PM,Pinhas Adout,DF,House help,2,2l
+2019-12-13,FRI_PM,Moshe Cohen,"ZW,BC","Empty bookbags,Boxes",3,
+2019-12-13,FRI_PM,Yosef Gerecht,"AE,VW","Living room,Basement clean up",B,2e
+2019-12-13,FRI_PM,Nesanel First,"MB,YF",Kitchen,MA,
+2019-12-13,FRI_PM,Nosson Weissman,"YE,CR","1st floor,Elevator clean up",2,3l
+2019-12-13,FRI_PM,Sam Shmaya,SI,Kitchen help,3,
+2019-12-13,FRI_PM,Nachi Frankel,YM,AMAP,FB,
+2019-12-14,SHAB_AM,Zach Shulman,"AE,YM",,1,
+2019-12-14,SHAB_AM,Nosson Weissman,NL,,2,
+2019-12-14,SHAB_AM,Moshe Cohen,"YE,MB",,3,
+2019-12-14,SHAB_AM,Yosef Gerecht,"ZW,YF",,B,
+2019-12-14,SHAB_AM,Nesanel First,"CR,VW",,MA,
+2019-12-14,SHAB_AM,Nachi Frankel,SI,,2,
+2019-12-14,SHAB_AM,Sam Shmaya,"DF,BC",,3,
+2019-12-14,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2019-12-14,SHAB_PM,Zach Shulman,"ZW,BC","Living room,Basement",1,
+2019-12-14,SHAB_PM,Pinhas Adout,YF,Boxes House help,2,
+2019-12-14,SHAB_PM,Moshe Cohen,"AE,CR","Kitchen AM,Restocking",3,2e
+2019-12-14,SHAB_PM,Yosef Gerecht,SI,"1st floor, Elevator",B,
+2019-12-14,SHAB_PM,Nesanel First,NL,Bookbags,MA,3e
+2019-12-14,SHAB_PM,Nachi Frankel,"DF,VW",Sanitizing,2,3l
+2019-12-14,SHAB_PM,Sam Shmaya,"YE,MB",Kitchen PM,3,2l
+2019-12-14,SHAB_PM,Nosson Weissman,YM,AMAP,FB,
+2019-12-20,FRI_PM,Zachery Perlstein,NL,"Sanitizing,Restocking",1,3e
+2019-12-20,FRI_PM,Pinhas Adout,ZW,House help,2,2l
+2019-12-20,FRI_PM,Sruli Teitelbaum,SI,"Empty bookbags,Boxes",3,3l
+2019-12-20,FRI_PM,Yosef Gerecht,"MB,VW","Living room,Basement cleanup",B,
+2019-12-20,FRI_PM,Nosson Weissman,"YE,YM",Kitchen,MA,
+2019-12-20,FRI_PM,Ben Gil,"AE,CR","1st floor,Elevator cleanup",2,2e
+2019-12-20,FRI_PM,Sam Shmaya,"DF,YF",Kitchen help,3,
+2019-12-20,FRI_PM,Sruly A,BC,AMAP,FB,
+2019-12-21,SHAB_AM,Zachery Perlstein,SI,,1,
+2019-12-21,SHAB_AM,Sruli Teitelbaum,"DF,BC",,2,
+2019-12-21,SHAB_AM,Sruly A,"ZW,YM",,3,
+2019-12-21,SHAB_AM,Yosef Gerecht,"MB,YF",,B,
+2019-12-21,SHAB_AM,Nosson Weissman,"CR,VW",,MA,
+2019-12-21,SHAB_AM,Ben Gil,"YE,AE",,2,
+2019-12-21,SHAB_AM,Sam Shmaya,NL,,3,
+2019-12-21,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2019-12-21,SHAB_PM,,,,1,
+2019-12-21,SHAB_PM,Pinhas Adout,"VW,ZW",House help,2,
+2019-12-21,SHAB_PM,Sruly A,"AE,CR","1st floor,Elevator",3,2e
+2019-12-21,SHAB_PM,Yosef Gerecht,NL,Kitchen AM,B,3e
+2019-12-21,SHAB_PM,Nosson Weissman,"DF,BC","Living room,Basement",MA,2l
+2019-12-21,SHAB_PM,Ben Gil,"MB,YE",Kitchen PM,2,
+2019-12-21,SHAB_PM,Sam Shmaya,"SI,YF",Bookbags,3,3l
+2019-12-21,SHAB_PM,Sruli Teitelbaum,YM,AMAP,FB,
+2019-12-27,FRI_PM,Yosef Gerecht,NL,"Empty bookbags,Boxes",1,3e
+2019-12-27,FRI_PM,Sruli Teitelbaum,"ZW,VW",House help,2,2l
+2019-12-27,FRI_PM,Zach Shulman,"SI,YM","1st floor,Elevator,Restocking",3,
+2019-12-27,FRI_PM,Zachery Perlstein,"AE,YF","Living room,Basement clean up",B,2e
+2019-12-27,FRI_PM,Moshe Cohen,"YE,MB",Kitchen,MA,
+2019-12-27,FRI_PM,Joey Bouskilla,"DF,CR",Kitchen help,2,3l
+2019-12-27,FRI_PM,Nosson Weissman,BC,AMAP,FB,
+2019-12-28,SHAB_AM,Yosef Gerecht,"ZW,BC",,1,
+2019-12-28,SHAB_AM,Nosson Weissman,"DF,CR",,2,
+2019-12-28,SHAB_AM,Zach Shulman,"YE,MB",,3,
+2019-12-28,SHAB_AM,Zachery Perlstein,"SI,YM",,B,
+2019-12-28,SHAB_AM,Moshe Cohen,"AE,YF",,MA,
+2019-12-28,SHAB_AM,Joey Bouskilla,"NL,VW",,2,
+2019-12-28,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2019-12-28,SHAB_PM,Yosef Gerecht,"YE,MB","Kitchen AM,Restocking",1,2l
+2019-12-28,SHAB_PM,Nosson Weissman,"NL,VW","Living room,Basement",2,3e
+2019-12-28,SHAB_PM,Zach Shulman,"AE,CR","1st floor,Elevator",3,3l
+2019-12-28,SHAB_PM,Zachery Perlstein,"DF,YF",Kitchen PM,B,
+2019-12-28,SHAB_PM,Moshe Cohen,"SI,YM","Bookbags,Restocking",MA,2e
+2019-12-28,SHAB_PM,Sruli Teitelbaum,ZW,House help,2,
+2019-12-28,SHAB_PM,Joey Bouskilla,BC,AMAP,FB,
+2020-01-03,FRI_PM,Yaakov Abeaziz,NL,Sanitizing Restocking,1,3e
+2020-01-03,FRI_PM,Pinhas Adout,ZW,House Help,2,2l
+2020-01-03,FRI_PM,Ben Gil,SI,"Empty Bookbags, Boxes",3,
+2020-01-03,FRI_PM,Yosef Gerecht,"DF,YF","Living room, basement",B,
+2020-01-03,FRI_PM,Zach Perlstein,"YE,YM",Kitchen,MA,2e
+2020-01-03,FRI_PM,Jason Rutman,"AE,CR",First Floor,2,
+2020-01-03,FRI_PM,Sam Shmaya,"MB,BC",Kitchen Help,3,
+2020-01-03,FRI_PM,Nosson Weissman,,AMAP,FB,3l
+2020-01-04,SHAB_AM,Nosson Weissman,SI,,1,
+2020-01-04,SHAB_AM,Yaakov Abeaziz,"ZW,YF",,2,
+2020-01-04,SHAB_AM,Ben Gil,"MB,YE",Kitchen AM,3,
+2020-01-04,SHAB_AM,Yosef Gerecht,AE,,B,
+2020-01-04,SHAB_AM,Zach Perlstein,"DF,YM",,MA,
+2020-01-04,SHAB_AM,Jason Rutman,"CR,BC",,2,
+2020-01-04,SHAB_AM,Sam Shmaya,NL,,3,2e
+2020-01-04,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-01-04,SHAB_PM,Nosson Weissman,"ZW,YE",Kitchen PM,1,
+2020-01-04,SHAB_PM,Pinhas Adout,BC,House Help,2,
+2020-01-04,SHAB_PM,Ben Gil,SI,,3,2l
+2020-01-04,SHAB_PM,Yosef Gerecht,NL,Bookbags,B,3e
+2020-01-04,SHAB_PM,Zach Perlstein,"MB,YF",Restocking,MA,
+2020-01-04,SHAB_PM,Jason Rutman,"DF,YM",,2,3l
+2020-01-04,SHAB_PM,Sam Shmaya,"AE,CR",First Floor,3,
+2020-01-04,SHAB_PM,Yaakov Abeaziz,,AMAP,FB,
+2020-01-10,FRI_PM,Yosef Gerecht,NL,Sanitizing Restocking,1,3e
+2020-01-10,FRI_PM,Pinhas Adout,ZW,House Help,2,2l
+2020-01-10,FRI_PM,Zach Shulman,"MB,BC","Empty Bookbags, Boxes",3,
+2020-01-10,FRI_PM,Ben Gil,SI,"Living room, basement",B,
+2020-01-10,FRI_PM,Moshe Cohen,"YE,YM",Kitchen,MA,
+2020-01-10,FRI_PM,Nesanel First,"AE,CR",First Floor,2,2e
+2020-01-10,FRI_PM,Zach Perlstein,,Kitchen Help,3,3l
+2020-01-10,FRI_PM,Nosson Weissman,,AMAP,FB,
+2020-01-11,SHAB_AM,Nosson Weissman,"YE,ZW",,1,
+2020-01-11,SHAB_AM,Sruli Teitelbaum,"DF,YM",Trainee,2,
+2020-01-11,SHAB_AM,Zach Shulman,NL,,3,
+2020-01-11,SHAB_AM,Ben Gil,"CR,BC",,B,
+2020-01-11,SHAB_AM,Moshe Cohen,SI,,MA,
+2020-01-11,SHAB_AM,Nesanel First,AE,,2,
+2020-01-11,SHAB_AM,Zach Perlstein,MB,Kitchen AM,3,
+2020-01-11,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-01-11,SHAB_PM,Nosson Weissman,"DF,YM",First Floor,1,2l
+2020-01-11,SHAB_PM,Pinhas Adout,ZW,,2,
+2020-01-11,SHAB_PM,Zach Shulman,"AE,CR","Restocking,Sanitizing",3,2e
+2020-01-11,SHAB_PM,Ben Gil,NL,"Living room,basement",B,3e
+2020-01-11,SHAB_PM,Moshe Cohen,"YF,YE",Kitchen PM,MA,3l
+2020-01-11,SHAB_PM,Nesanel First,SI,Bookbags,2,
+2020-01-11,SHAB_PM,Zach Perlstein,BC,,3,
+2020-01-11,SHAB_PM,Sruli Teitelbaum,,"AMAP,Trainee",FB,
+2020-01-17,FRI_PM,Sam Shmaya,"DF,CR",Kitchen Help,1,
+2020-01-17,FRI_PM,Sruli Teitelbaum,ZW,Manage Shift,2,2l
+2020-01-17,FRI_PM,Yosef Gerecht,NL,"Empty Bookbags, Boxes",3,
+2020-01-17,FRI_PM,Moshe Brum,"AE,YF","Living Room, Basement",B,2e
+2020-01-17,FRI_PM,Nosson Weissman,MB,Kitchen,MA,
+2020-01-17,FRI_PM,Nesanel First,"SI,YM",First Floor,2,
+2020-01-17,FRI_PM,Joey Bouskilla,BC,AMAP,FB,
+2020-01-18,SHAB_AM,Sam Shmaya,SI,,1,
+2020-01-18,SHAB_AM,Joey Bouskilla,"ZW,YF",Kitchen AM,2,
+2020-01-18,SHAB_AM,Yosef Gerecht,"AE,YM",,3,3e
+2020-01-18,SHAB_AM,Moshe Brum,"MB,BC",,B,2e
+2020-01-18,SHAB_AM,Nosson Weissman,"DF,CR",,MA,3l
+2020-01-18,SHAB_AM,Nesanel First,NL,,2,
+2020-01-18,SHAB_AM,Sruli Teitelbaum,,"AMAP, Manage Shift",FB,2l
+2020-01-18,SHAB_PM,Sam Shmaya,"MB,YF",Bookbags,1,
+2020-01-18,SHAB_PM,Joey Bouskilla,NL,Restocking,2,
+2020-01-18,SHAB_PM,Yosef Gerecht,"DF,YM",Kitchen PM,3,
+2020-01-18,SHAB_PM,Moshe Brum,SI,First Floor,B,
+2020-01-18,SHAB_PM,Sruli Teitelbaum,ZW,Manage Shift,MA,
+2020-01-18,SHAB_PM,Nesanel First,"AE,CR","Living Room, basement",2,
+2020-01-18,SHAB_PM,Nosson Weissman,BC,AMAP,FB,
+2020-01-24,FRI_PM,Joey Bouskilla,"MB,YE","Sanatizing, Restocking",1,3l
+2020-01-24,FRI_PM,Pinhas Adout,DF,Manage Shift,2,"2e, 2l"
+2020-01-24,FRI_PM,Yosef Gerecht,"AE,CR","Empty Bookbags, Boxes",3,
+2020-01-24,FRI_PM,Ben Gil,NL,"Livingroom, basement",B,
+2020-01-24,FRI_PM,Nosson Weissman,"ZW,YF",Kitchen,MA,
+2020-01-24,FRI_PM,David Kuras,"SI,BC",First Floor,2,3e
+2020-01-24,FRI_PM,Yaakov Abeaziz,YM,AMAP,FB,
+2020-01-25,SHAB_AM,Yaakov Abeaziz,"AE,YM",Kitchen AM,1,
+2020-01-25,SHAB_AM,Joey Bouskilla,"NL,YF",,2,
+2020-01-25,SHAB_AM,Yosef Gerecht,"YE,SI",,3,
+2020-01-25,SHAB_AM,Ben Gil,"ZW,MB",,B,
+2020-01-25,SHAB_AM,Nosson Weissman,"DF,CR",,MA,
+2020-01-25,SHAB_AM,Pinhas Adout,BC,"Manage Shift, AMAP",FB,
+2020-01-25,SHAB_PM,Yaakov Abeaziz,"DF,CR",Sanitizing,1,3l
+2020-01-25,SHAB_PM,Pinhas Adout,"ZW,BC","Manage Shift, Kitchen PM",2,
+2020-01-25,SHAB_PM,Yosef Gerecht,"AE,MB",First Floor,3,2e
+2020-01-25,SHAB_PM,Ben Gil,"SI,YM","Living Room, Basement",B,2l
+2020-01-25,SHAB_PM,Nosson Weissman,"NL,YE","Bookbags, Boxes",MA,3e
+2020-01-25,SHAB_PM,Joey Bouskilla,YF,AMAP,FB,
+2020-02-07,FRI_PM,Zach Shulman,"AE,BC",1st floor elevator restocking,1,3e
+2020-02-07,FRI_PM,Pinhas Adout,DF,"House Help, Sanitizing","2,3",3l
+2020-02-07,FRI_PM,Zachery Perlstein,NL,"Living room,Boxes",B,
+2020-02-07,FRI_PM,Sam Shmaya,ZW,Kitchen,MA,
+2020-02-07,FRI_PM,Nosson Weissman,YF,AMAP,FB,
+2020-02-08,SHAB_AM,Zach Shulman,ZW,,1,
+2020-02-08,SHAB_AM,Nosson Weissman,"DF,BC",Kitchen AM,"2,3",
+2020-02-08,SHAB_AM,Zachery Perlstein,"AE,YF",,B,
+2020-02-08,SHAB_AM,Sam Shmaya,NL,,MA,
+2020-02-08,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-02-08,SHAB_PM,Zach Shulman,NL,Bookbags,1,3e
+2020-02-08,SHAB_PM,Pinhas Adout,ZW,"Kitchen AM,First floor,Elevator","2,3",
+2020-02-08,SHAB_PM,Zachery Perlstein,"DF,BC","Living room,Basement",B,
+2020-02-08,SHAB_PM,Sam Shmaya,"AE,YF","Restocking,Sanitizing",MA,
+2020-02-08,SHAB_PM,Nosson Weissman,,AMAP,FB,3l
+2020-02-10,FRI_PM,James Kemp,NL,Boxes and Garbage,1,
+2020-02-10,FRI_PM,Daniel,"AE,YM,YN",Bookbags,2,
+2020-02-10,FRI_PM,Karina Solage,"YE,YF",1st floor & Basement housekeeping,3,
+2020-02-10,FRI_PM,Meir Werther,"SI,YF",Kitchen,B,
+2020-02-10,FRI_PM,Yitzchok Moshiyakov,"ZW,DF","Lunches for school,Shoes",MA,
+2020-02-10,FRI_PM,Chaim,"MB,CR",Van cleanup,2,
+2020-02-10,FRI_PM,Yitzy Muller,BC,"Lunches for school,Shoes",,
+2020-02-11,FRI_PM,Shimshi Zellermaier,"SI,YF",Bookbags,1,
+2020-02-11,FRI_PM,Aubrey Denny,NL,Boxes & Garbage,2,
+2020-02-11,FRI_PM,Moshe Cohen,"MB,BC",1st floor & Basement housekeeping,3,
+2020-02-11,FRI_PM,Yitzchok Moshiyakov,"DF,ZW",Kitchen,B,
+2020-02-11,FRI_PM,Moshe Brum,"YE,CR","Van clean up,Mon/Thurs Garbage and Boxes Help",MA,
+2020-02-11,FRI_PM,Yitzy Muller,"AE,YF",,2,
+2020-02-11,FRI_PM,James Kemp,,"Lunches for school,Shoes",,
+2020-02-12,FRI_PM,Meir Werther,SI,"Van clean up,Mon/Thurs Garbage and Boxes Help",1,
+2020-02-12,FRI_PM,Moshe Cohen,NL,"Lunches for school,Shoes",2,
+2020-02-12,FRI_PM,Chaim,"CR,YE",1st floor & Basement housekeeping,3,
+2020-02-12,FRI_PM,Aubrey Denny,AE,Bookbags,B,
+2020-02-12,FRI_PM,Moshe Brum,"DF,ZW",Boxes & Garbage,MA,
+2020-02-12,FRI_PM,Shimshi Zellermaier,"MR,YM","Kitchen,Mon/Thurs garbage help",2,
+2020-02-12,FRI_PM,Aubrey Denny,"BC,YF",,,
+2020-02-13,FRI_PM,Chaim,SI,Boxes & Garbage,1,
+2020-02-13,FRI_PM,James Kemp,"DF,YF",,2,
+2020-02-13,FRI_PM,Yitzchok Moshiyakov,"CR,YE",1st floor & Basement housekeeping,3,
+2020-02-13,FRI_PM,Meir Werther,NL,"Lunches for school,Shoes",B,
+2020-02-13,FRI_PM,Danirl,AE,Bookbags,MA,
+2020-02-13,FRI_PM,Karina Solage,"ZW,YM","Kitchen,Mon/Thurs garbage help",2,
+2020-02-13,FRI_PM,Zachery Perlstein,"MB,BC","Van clean up,Mon/Thurs Garbage and Boxes Help",1,
+2020-02-14,FRI_PM,Pinhas Adout,NL,"Sanitizing,Restocking",1,3e
+2020-02-14,FRI_PM,Yosef Gerecht,DF,House help,2,2l
+2020-02-14,FRI_PM,Sam Shmaya,"AE,BC","Empty bookbags,Boxes",3,
+2020-02-14,FRI_PM,Yaakov Abeaziz,SI,"Living room,Basement clean up",B,
+2020-02-14,FRI_PM,Sruly A,"MB,YE",Kitchen,MA,3l
+2020-02-14,FRI_PM,Nosson Weissman,"YF,CR","1st floor,Elevator clean up",2,2e
+2020-02-14,FRI_PM,Zachery Perlstein,YM,AMAP,FB,
+2020-12-15,SHAB_AM,Sruly A,"MY,BC",,1,
+2020-12-15,SHAB_AM,Yosef Gerecht,SI,,2,
+2020-12-15,SHAB_AM,Sam Shmaya,"DF,CR",,3,
+2020-12-15,SHAB_AM,Yaakov Abeaziz,"MB,YE",,B,
+2020-12-15,SHAB_AM,Nosson Weissman,NL,,MA,
+2020-12-15,SHAB_AM,Pinhas Adout,"AE,YF",,2,
+2020-12-15,SHAB_AM,Zachery Perlstein,,AMAP,FB,
+2020-12-15,SHAB_PM,Pinhas Adout,"AE,CR","1st floor,Elevator",1,2e
+2020-12-15,SHAB_PM,Yosef Gerecht,YM,House help,2,
+2020-12-15,SHAB_PM,Sam Shmaya,SI,"Living room,Basement",3,3l
+2020-12-15,SHAB_PM,Yaakov Abeaziz,NL,Restocking,B,3e
+2020-12-15,SHAB_PM,Nosson Weissman,"MB,YE",Bookbags,MA,
+2020-12-15,SHAB_PM,Sruly A,"DF,BC",Kitchen PM,2,2l
+2020-12-15,SHAB_PM,David,YF,AMAP,FB,
+2020-02-16,FRI_PM,Chaim,"SI,DF","Van clean up,Mon/Thurs Garbage and Boxes Help",1,
+2020-02-16,FRI_PM,Moshe Brum,"AE,YM","Kitchen,Mon/Thurs garbage help",2,
+2020-02-16,FRI_PM,Yosef Gerecht,"YE,BC",,3,
+2020-02-16,FRI_PM,Av.,"MB,YF","Lunches for school,Shoes",B,
+2020-02-16,FRI_PM,Joey Bouskila,CR,Bookbags,MA,
+2020-02-16,FRI_PM,Moshe Kieval,NL,1st floor & Basement housekeeping,2,
+2020-02-16,FRI_PM,Shimshi Zellermaier,ZW,,,
+2020-02-17,FRI_PM,Chaim,"DF,ZW",Boxes & Garbage,1,
+2020-02-17,FRI_PM,James Kemp,NL,"Lunches for school,Shoes",2,
+2020-02-17,FRI_PM,Christina,SI,"Kitchen,Mon/Thurs garbage help",3,
+2020-02-17,FRI_PM,Moshe L,"CR,YF","Van clean up,Mon/Thurs Garbage and Boxes Help",B,
+2020-02-17,FRI_PM,Meir Werther,AE,1st floor & Basement housekeeping,MA,
+2020-02-17,FRI_PM,Karina Solage,"YM,YE",Bookbags,2,
+2020-02-17,FRI_PM,Daniel,"MB,BC",Boxes & Garbage,1,
+2020-02-18,FRI_PM,Aubrey Denny,AE,Boxes & Garbage,1,
+2020-02-18,FRI_PM,Chaim,DF,"Kitchen,Mon/Thurs garbage help",2,
+2020-02-18,FRI_PM,James Kemp,"ZW,YM","Van clean up,Mon/Thurs Garbage and Boxes Help",3,
+2020-02-18,FRI_PM,Yitzy Muller,SI,1st floor & Basement housekeeping,B,
+2020-02-18,FRI_PM,Moshe L,NL,"Lunches for school,Shoes",MA,
+2020-02-18,FRI_PM,Moshe Brum,"CR,BC",1st floor & Basement housekeeping,2,
+2020-02-18,FRI_PM,Meir Werther,"YF,YE",Bookbags,3,
+2020-02-19,FRI_PM,David Kuras,"YE,CR",Bookbags,1,
+2020-02-19,FRI_PM,Aubrey Denny,"OF,ZW","Kitchen,Mon/Thurs garbage help",2,
+2020-02-19,FRI_PM,Moshe Brum,SI,Boxes & Garbage,3,
+2020-02-19,FRI_PM,Shimshi Zellermaier,"AE,YM","Van clean up,Mon/Thurs Garbage and Boxes Help",B,
+2020-02-19,FRI_PM,Moshe L,NL,"Lunches for school,Shoes",MA,
+2020-02-19,FRI_PM,Yitzy Muller,"MB,YF",1st floor & Basement housekeeping,2,3e
+2020-02-21,FRI_PM,Nesanel First,NL,"Sanitizing,Restocking",2,
+2020-02-21,FRI_PM,Pinhas Adout,ZW,House Help,3,2I
+2020-02-21,FRI_PM,Zachery Perlstein,AE,"Empty bookbags,Boxes",B,2e
+2020-02-21,FRI_PM,Yosef Gerecht,"DF,CR","Living room,Basement cleanup",MA,3I
+2020-02-21,FRI_PM,Nosson Weissman,"YE,YF",Kitchen,2,
+2020-02-21,FRI_PM,Ben Gil,SI,"1st floor,elevator cleanup",3,
+2020-02-21,FRI_PM,Zach Shulman,"MB,BC",Kitchen Help,FB,
+2020-02-21,FRI_PM,Joey Bouskila,YM,AMAP,,
+2020-02-22,SHAB_AM,Nesanel First,"MB,YE",,1,
+2020-02-22,SHAB_AM,Nosson Weissman,ZW,,2,
+2020-02-22,SHAB_AM,Zachery Perlstein,"DF,CR",,3,
+2020-02-22,SHAB_AM,Yosef Gerecht,"AE,YM",,B,
+2020-02-22,SHAB_AM,Joey Bouskila,NL,,MA,
+2020-02-22,SHAB_AM,Ben Gil,"YF,BC",,2,
+2020-02-22,SHAB_AM,Zach Shulman,SI,,3,
+2020-02-22,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-02-22,SHAB_PM,Nesanel First,SI,"1st floor,Elevator",1,
+2020-02-22,SHAB_PM,Pinhas Adout,BC,"House help,Boxes",2,
+2020-02-22,SHAB_PM,Zachery Perlstein,"MB,BC","Kitchen AM,Restocking",3,
+2020-02-22,SHAB_PM,Yosef Gerecht,ZW,Kitchen PM,B,
+2020-02-22,SHAB_PM,Joey Bouskila,"DF,CR","Living room,Basement",MA,2I
+2020-02-22,SHAB_PM,Ben Gil,NL,Sanitizing,2,3e
+2020-02-22,SHAB_PM,Zach Shulman,"AE,YM",Bookbags,3,2e
+2020-02-22,SHAB_PM,Nosson Weissman,YF,AMAP,FB,3I
+2020-02-28,FRI_PM,Nosson Weissman,NL,"Sanitizing,Restocking",1,3e
+2020-02-28,FRI_PM,Pinhas Adout,DF,House help,2,2I
+2020-02-28,FRI_PM,Sam Shmaya,"ZW,CR","Empty bookbags,boxes",3,
+2020-02-28,FRI_PM,Nesanel First,AE,"Living room,Basement cleanup",B,2e
+2020-02-28,FRI_PM,Zachery Perlstein,"YE,YF",Kitchen,MA,
+2020-02-28,FRI_PM,Yosef Gerecht,SI,"1st floor,Elevator clean up",2,
+2020-02-28,FRI_PM,Ben Gil,"MB,BC",Kitchen help,3,3I
+2020-02-28,FRI_PM,Sruly A,YM,AMAP,FB,
+2020-02-29,SHAB_AM,Sruly A,"ZW,BC",,1,
+2020-02-29,SHAB_AM,Nosson Weissman,"DF,YM",,2,
+2020-02-29,SHAB_AM,Sam Shmaya,NL,,3,
+2020-02-29,SHAB_AM,Nesanel First,"YF,CR",,B,
+2020-02-29,SHAB_AM,Zachery Perlstein,AE,,MA,
+2020-02-29,SHAB_AM,Yosef Gerecht,"MB,YE",,2,
+2020-02-29,SHAB_AM,Ben Gil,SI,,3,
+2020-02-29,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-02-29,SHAB_PM,Sruly A,NL,"1st floor,Elevator clean up",1,3e
+2020-02-29,SHAB_PM,Pinhas Adout,YM,"Kitchen AM/House help,Boxes",2,
+2020-02-29,SHAB_PM,Sam Shmaya,"MB,YE",Kitchen PM,3,2I
+2020-02-29,SHAB_PM,Nesanel First,SI,Sanitizing,B,
+2020-02-29,SHAB_PM,Zachery Perlstein,"DF,BC",Restocking,MA,3I
+2020-02-29,SHAB_PM,Yosef Gerecht,"AE,CR","Living room,Basement",2,2e
+2020-02-29,SHAB_PM,Ben Gil,ZW,Bookbags,3,
+2020-02-29,SHAB_PM,Nosson Weissman,YF,AMAP,FB,
+2020-03-06,FRI_PM,Zachery Perlstein,NL,"Sanitizing,Restocking",1,3e
+2020-03-06,FRI_PM,Pinhas Adout,ZW,House help,2,2I
+2020-03-06,FRI_PM,Nosson Weissman,"DF,CR","Empty bookbags,Boxes",3,
+2020-03-06,FRI_PM,Ben Gil,AE,"Living room,Basement clean up",B,2e
+2020-03-06,FRI_PM,Sam Shmaya,"YE,YF",Kitchen,MA,
+2020-03-06,FRI_PM,Joey Bouskila,SI,"1st floor,Elevator cleanup",2,3I
+2020-03-06,FRI_PM,Yaakov Abeaziz,"BC,MB",Kitchen help,3,
+2020-03-06,FRI_PM,Sruly A,YM,AMAP,FB,
+2020-03-07,SHAB_AM,Zachery Perlstein,ZW,,1,
+2020-03-07,SHAB_AM,Joey Bouskila,NL,,2,
+2020-03-07,SHAB_AM,Nosson Weissman,"MB,YE",,3,
+2020-03-07,SHAB_AM,Ben Gil,"DF,YM",,B,
+2020-03-07,SHAB_AM,Sam Shmaya,"AE,YF",,MA,
+2020-03-07,SHAB_AM,Sruly A,"CR,BC",,2,
+2020-03-07,SHAB_AM,Yaakov Abeaziz,SI,,3,
+2020-03-07,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-03-07,SHAB_PM,Zachery Perlstein,"MB,YE",Sanitizing,1,
+2020-03-07,SHAB_PM,Pinhas Adout,BC,"House help,Boxes",2,
+2020-03-07,SHAB_PM,Nosson Weissman,NL,Bookbags,3,3e
+2020-03-07,SHAB_PM,Ben Gil,SI,"Kitchen AM,Restocking",B,
+2020-03-07,SHAB_PM,Sam Shmaya,ZW,Kitchen PM,MA,2I
+2020-03-07,SHAB_PM,Sruly A,"DF,YF","1st floor,Elevator",2,3I
+2020-03-07,SHAB_PM,Yaakov Abeaziz,"AE,CR","Living room,Basement",3,2e
+2020-03-07,SHAB_PM,Joey Bouskila,YM,AMAP,FB,
+2020-03-13,FRI_PM,Zach Shulman,NL,Sanitizing,1,3e
+2020-03-13,FRI_PM,Sruli Teitelbaum,ZW,House help,2,2l
+2020-03-13,FRI_PM,Zachery Perlstein,SI,"Empty bookbags,Boxes,Restocking",3,3l
+2020-03-13,FRI_PM,Ben Gil,"AE,YM","Living room,Basement clean up",B,
+2020-03-13,FRI_PM,Nosson Weissman,MB,Kitchen,MA,2e
+2020-03-13,FRI_PM,Nesanel First,"YE,YF","1st floor ,Elevator clean up",2,
+2020-03-13,FRI_PM,Sam Shmaya,"DF,CR",Kitchen help,3,
+2020-03-13,FRI_PM,Nachi Frankel,BC,AMAP,FB,
+2020-03-14,SHAB_AM,Zach Shulman,"ZW,YM",,1,
+2020-03-14,SHAB_AM,Nachi Frankel,NL,,2,
+2020-03-14,SHAB_AM,Zachery Perlstein,"AE,YF",,3,
+2020-03-14,SHAB_AM,Ben Gil,SI,,B,
+2020-03-14,SHAB_AM,Nosson Weissman,DF,,MA,
+2020-03-14,SHAB_AM,Nesanel First,"CR,BC",,2,
+2020-03-14,SHAB_AM,Sam Shmaya,"YE,MB",,3,
+2020-03-14,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-03-14,SHAB_PM,Zach Shulman,"AE,YF",Restocking bookbags,1,
+2020-03-14,SHAB_PM,Nachi Frankel,"YE,CR","1st floor,Elevator cleanup",2,2e
+2020-03-14,SHAB_PM,Zachery Perlstein,"DF,MB",Kitchen PM,3,
+2020-03-14,SHAB_PM,Ben Gil,ZW,"Living room,Basement cleanup",B,2l
+2020-03-14,SHAB_PM,Sruli Teitelbaum,YM,House help,MA,
+2020-03-14,SHAB_PM,Nesanel First,NL,"Kitchen AM,House help",2,3e
+2020-03-14,SHAB_PM,Sam Shmaya,SI,"Sanitizing, Restocking",3,3l
+2020-03-14,SHAB_PM,Nosson Weissman,BC,AMAP,FB,
+2020-03-27,FRI_PM,Sam Shmaya,"DF,CR",Sanitizing,1,
+2020-03-27,FRI_PM,Sruli Teitelbaum,,House help,2,
+2020-03-27,FRI_PM,Yosef Gerecht,"MB,BC","Empty bookbags,Boxes",3,
+2020-03-27,FRI_PM,Ben Gil,SI,"Living room,Basement clean up",B,
+2020-03-27,FRI_PM,Nosson Weissman,ZW,Kitchen,MA,
+2020-03-27,FRI_PM,Moshe Brum,YF,"1st floor,Elevator clean up",2,
+2020-03-27,FRI_PM,Zachery Perlstein,"AE,YE",Kitchen help,3,
+2020-03-27,FRI_PM,Nachi Frankel,NL,AMAP,FB,
+2020-03-28,SHAB_AM,Sam Shmaya,"DF,CR",,1,
+2020-03-28,SHAB_AM,Sruli Teitelbaum,,,2,
+2020-03-28,SHAB_AM,Yosef Gerecht,"MB,BC",,3,
+2020-03-28,SHAB_AM,Ben Gil,SI,,B,
+2020-03-28,SHAB_AM,Nosson Weissman,ZW,,MA,
+2020-03-28,SHAB_AM,Moshe Brum,YF,,2,
+2020-03-28,SHAB_AM,Zachery Perlstein,"AE,YE",,3,
+2020-03-28,SHAB_AM,Nachi Frankel,NL,AMAP,FB,
+2020-03-28,SHAB_PM,Sam Shmaya,"DF,CR",Sanitizing,1,
+2020-03-28,SHAB_PM,Sruli Teitelbaum,,House help,2,
+2020-03-28,SHAB_PM,Yosef Gerecht,"MB,BC","Empty bookbags,Boxes",3,
+2020-03-28,SHAB_PM,Ben Gil,SI,"Living room,Basement clean up",B,
+2020-03-28,SHAB_PM,Nosson Weissman,ZW,Kitchen,MA,
+2020-03-28,SHAB_PM,Moshe Brum,YF,"1st floor,Elevator clean up",2,
+2020-03-28,SHAB_PM,Zachery Perlstein,"AE,YE",Kitchen help,3,
+2020-03-28,SHAB_PM,Nachi Frankel,NL,AMAP,FB,
+2020-04-03,FRI_PM,Sam Shmaya,YF,Sanitizing,1,
+2020-04-03,FRI_PM,Pinhas Adout,NL,House help,2,
+2020-04-03,FRI_PM,Ben Gil,AE,"Empty bookbags,Boxes",3,
+2020-04-03,FRI_PM,Nosson Weissman,MP,"Living room,Basement clean up",B,
+2020-04-03,FRI_PM,Zachery Perlstein,"BC,YE",Kitchen,MA,
+2020-04-03,FRI_PM,Yosef Gerecht,"OF,CR","1st floor,Elevator cleanup",2,
+2020-04-03,FRI_PM,Mark Gersten,SI,Kitchen help,3,
+2020-04-03,FRI_PM,Sruli Teitelbaum,,AMAP (FRIDAY) 2W,FB,
+2020-04-04,SHAB_AM,Sam Shmaya,YF,,1,
+2020-04-04,SHAB_AM,Pinhas Adout,NL,,2,
+2020-04-04,SHAB_AM,Ben Gil,AE,,3,
+2020-04-04,SHAB_AM,Nosson Weissman,MP,,B,
+2020-04-04,SHAB_AM,Zachery Perlstein,"BC,YE",,MA,
+2020-04-04,SHAB_AM,Yosef Gerecht,"OF,CR",,2,
+2020-04-04,SHAB_AM,Mark Gersten,SI,,3,
+2020-04-04,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-04-04,SHAB_PM,Sam Shmaya,YF,Sanitizing,1,
+2020-04-04,SHAB_PM,Pinhas Adout,NL,House help,2,
+2020-04-04,SHAB_PM,Ben Gil,AE,"Empty bookbags,Boxes",3,
+2020-04-04,SHAB_PM,Nosson Weissman,MP,"Living room,Basement clean up",B,
+2020-04-04,SHAB_PM,Zachery Perlstein,"BC,YE",Kitchen,MA,
+2020-04-04,SHAB_PM,Yosef Gerecht,"OF,CR","1st floor,Elevator cleanup",2,
+2020-04-04,SHAB_PM,Mark Gersten,SI,Kitchen help,3,
+2020-04-04,SHAB_PM,Sruli Teitelbaum,,AMAP,FB,
+2020-04-08,FRI_PM,Yosef Gerecht,"MB,YE","Sanitizing,Restocking",1,
+2020-04-08,FRI_PM,Pinhas Adout,ZW,House help,2,
+2020-04-08,FRI_PM,Moshe Brum,NL,"Empty Bookbags,Boxes",3,
+2020-04-08,FRI_PM,Ben Gil,Rumy,"Living room,Basement cleanup",B,
+2020-04-08,FRI_PM,Zachery Perlstein,"YF,CR",Kitchen,MA,
+2020-04-08,FRI_PM,James Kemp,SI,"1st floor,Elevator clean up",2,
+2020-04-08,FRI_PM,Mark Gersten,DF,House help,MA,
+2020-04-08,FRI_PM,Nosson Weissman,"Medy,BC",Kitchen help,3,
+2020-04-08,FRI_PM,Sruli Teitelbaum,AE,AMAP,FB,
+2020-04-09,SHAB_AM,Yosef Gerecht,"AB,BC",,1,
+2020-04-09,SHAB_AM,Nosson Weissman,"YF,MB",,2,
+2020-04-09,SHAB_AM,Moshe Brum,Rumy,,3,
+2020-04-09,SHAB_AM,Ben Gil,SI,,B,
+2020-04-09,SHAB_AM,Zachery Perlstein,"DF,CR",,MA,
+2020-04-09,SHAB_AM,Mark Gersten,ZW,,MA,
+2020-04-09,SHAB_AM,Sam Shmaya,Mendy,,2,
+2020-04-09,SHAB_AM,Sruli Teitelbaum,NL,,3,
+2020-04-09,SHAB_AM,Pinhas Adout,YE,AMAP,FB,
+2020-04-09,SHAB_PM,Yosef Gerecht,Rumy,,1,
+2020-04-09,SHAB_PM,Pinhas Adout,NL,(For nosson cooking food for the seder in the morning),2,
+2020-04-09,SHAB_PM,Moshe Brum,AE,,3,
+2020-04-09,SHAB_PM,Ben Gil,"DF,CR","Kitchen,Help",B,
+2020-04-09,SHAB_PM,Zachery Perlstein,Mendy,Kitchen AM,MA,
+2020-04-09,SHAB_PM,Mark Gersten,ZW,House help,MA,
+2020-04-09,SHAB_PM,Sam Shmaya,"YE,MB",Kitchen PM,2,
+2020-04-09,SHAB_PM,Sruli Teitelbaum,"SI,YF",Restocking,3,
+2020-04-09,SHAB_PM,Nosson Weissman,BC,AMAP,FB,
+2020-04-10,SHAB_AM,Yosef Gerecht,"ZW,CR",,1,
+2020-04-10,SHAB_AM,Mark Gersten,DF,,2,
+2020-04-10,SHAB_AM,Moshe Brum,Mendy,,3,
+2020-04-10,SHAB_AM,Ben Gil,Rumy,,B,
+2020-04-10,SHAB_AM,Zachery Perlstein,SI,,MA,
+2020-04-10,SHAB_AM,Sam Shmaya,NL,,MA,
+2020-04-10,SHAB_AM,Nosson Weissman,"AE,YF",,2,
+2020-04-10,SHAB_AM,Sruli Teitelbaum,"YE,MB",,3,
+2020-04-10,SHAB_AM,Pinhas Adout,BC,AMAP,FB,
+2020-04-10,SHAB_PM,Yosef Gerecht,"DF,CR","Kitchen AM,NL PM Meal",1,
+2020-04-10,SHAB_PM,Pinhas Adout,YF,House help,2,
+2020-04-10,SHAB_PM,Moshe Brum,SI,Sanitizing,3,
+2020-04-10,SHAB_PM,Ben Gil,AE,"Living room,Basement",B,
+2020-04-10,SHAB_PM,Zachery Perlstein,"MB,YE",Kitchen PM,MA,
+2020-04-10,SHAB_PM,Sam Shmaya,Rumy,Restocking,MA,
+2020-04-10,SHAB_PM,Nosson Weissman,NL,Kitchen help,2,
+2020-04-10,SHAB_PM,Sruli Teitelbaum,"Mendy,BC","1st floor,Elevator",3,
+2020-04-10,SHAB_PM,Mark Gersten,ZW,AMAP,FB,
+2020-04-11,SHAB_AM,Yosef Gerecht,Mendy,,1,
+2020-04-11,SHAB_AM,Mark Gersten,SI,,2,
+2020-04-11,SHAB_AM,Moshe Brum,"MB,YE",,3,
+2020-04-11,SHAB_AM,Ben Gil,NL,,B,
+2020-04-11,SHAB_AM,Zachery Perlstein,AE,,MA,
+2020-04-11,SHAB_AM,Sam Shmaya,"ZW,YF",,MA,
+2020-04-11,SHAB_AM,Nosson Weissman,"DF,CR",,2,
+2020-04-11,SHAB_AM,Sruli Teitelbaum,Rumy,,3,
+2020-04-11,SHAB_AM,Pinhas Adout,BC,AMAP,FB,
+2020-04-11,SHAB_PM,Yosef Gerecht,"YF,MB","1st floor,Elevator",1,
+2020-04-11,SHAB_PM,Pinhas Adout,NL,House help,2,
+2020-04-11,SHAB_PM,Moshe Brum,"CR,DF","Living room,Basement",3,
+2020-04-11,SHAB_PM,Ben Gil,Rumy,Sanitizing,B,
+2020-04-11,SHAB_PM,Zachery Perlstein,Mendy,Restocking,MA,
+2020-04-11,SHAB_PM,Sam Shmaya,SI,Bookbags,MA,
+2020-04-11,SHAB_PM,Nosson Weissman,"YE,BC",Kitchen AM,2,
+2020-04-11,SHAB_PM,Sruli Teitelbaum,"ZW,AE",Kitchen PM,3,
+2020-04-11,SHAB_PM,Mark Gersten,,AMAP,FB,
+2020-04-14,FRI_PM,Yosef Gerecht,NL,Sedar kitchen and clean up,1,
+2020-04-14,FRI_PM,Pinhas Adout,BC,House help,2,
+2020-04-14,FRI_PM,Ben Gil,AE,Kitchen help for night,3,
+2020-04-14,FRI_PM,Moshe Brum,SI,"Living room,Basement",B,
+2020-04-14,FRI_PM,Zachery Perlstein,"YE,MB",Kitchen,MA,
+2020-04-14,FRI_PM,Sruly A,Rumy,1st floor and elevator clean up,2,
+2020-04-14,FRI_PM,Yaakov Abeaziz,"Mendy,CR",Kitchen help,3,
+2020-04-14,FRI_PM,Nosson Weissman,YF,AMAP,FB,
+2020-04-15,SHAB_AM,Yosef Gerecht,"CR,BC",,1,
+2020-04-15,SHAB_AM,Sruly A,NL,,2,
+2020-04-15,SHAB_AM,Ben Gil,Rumy,,3,
+2020-04-15,SHAB_AM,Moshe Brum,Mendy,,B,
+2020-04-15,SHAB_AM,Zachery Perlstein,AE,,MA,
+2020-04-15,SHAB_AM,Nosson Weissman,"MB,YE",,2,
+2020-04-15,SHAB_AM,Yaakov Abeaziz,SI,,3,
+2020-04-15,SHAB_AM,Pinhas Adout,YF,AMAP,FB,
+2020-04-15,SHAB_PM,Yosef Gerecht,SI,Kitchen AM,1,
+2020-04-15,SHAB_PM,Pinhas Adout,BC,House help,2,
+2020-04-15,SHAB_PM,Ben Gil,NL,House help,3,
+2020-04-15,SHAB_PM,Moshe Brum,"AE,CR",1st floor,B,
+2020-04-15,SHAB_PM,Zachery Perlstein,"MB,YE",Kitchen PM,MA,
+2020-04-15,SHAB_PM,Nosson Weissman,"Mendy,YF","Living room,Basement",2,
+2020-04-15,SHAB_PM,Yaakov Abeaziz,Rumy,House help,3,
+2020-04-15,SHAB_PM,Sruly A,,AMAP,FB,
+2020-04-16,SHAB_AM,Yosef Gerecht,Mendy,,1,
+2020-04-16,SHAB_AM,Yaakov Abeaziz,NL,,2,
+2020-04-16,SHAB_AM,Ben Gil,"CR,BC",,3,
+2020-04-16,SHAB_AM,Moshe Brum,"YE,MB",,B,
+2020-04-16,SHAB_AM,Zachery Perlstein,Rumy,,MA,
+2020-04-16,SHAB_AM,Nosson Weissman,"AE,YF",,2,
+2020-04-16,SHAB_AM,Sruly A,SI,,3,
+2020-04-16,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-04-16,SHAB_PM,Yosef Gerecht,"AE,YF","1st floor,Elevator",1,
+2020-04-16,SHAB_PM,Yaakov Abeaziz,Mendy,House help,2,
+2020-04-16,SHAB_PM,Ben Gil,"YE,MB","Kitchen PM,Help cleaning pessach stuff",3,
+2020-04-16,SHAB_PM,Moshe Brum,Rumy,"Living room,Basement",B,
+2020-04-16,SHAB_PM,Zachery Perlstein,SI,"Help cleaning,pessach stuff",MA,
+2020-04-16,SHAB_PM,Nosson Weissman,NL,Bookbags,2,
+2020-04-16,SHAB_PM,Sruly A,"BC,CR","Living room,Basement",3,
+2020-04-16,SHAB_PM,Pinhas Adout,,AMAP,FB,
+2020-04-17,FRI_PM,Yosef Gerecht,NL,"1st floor,Elevator clean up",1,3e
+2020-04-17,FRI_PM,Pinhas Adout,AE,House help,2,"2e,2l"
+2020-04-17,FRI_PM,Zachery Perlstein,"Mendy,CR","Empty bookbags,Boxes",3,
+2020-04-17,FRI_PM,Ben Gil,SI,"Living room,Basement clean up",B,
+2020-04-17,FRI_PM,Yaakov Abeaziz,"YE,MB",Kitchen,MA,3l
+2020-04-17,FRI_PM,Nosson Weissman,"Remy,BC","Sanitizing,Restocking",2,
+2020-04-17,FRI_PM,Sruly A,YF,AMAP,FB,
+2020-04-18,SHAB_AM,Yosef Gerecht,"YE,MB",,1,
+2020-04-18,SHAB_AM,Yaakov Abeaziz,"SI,YF",,2,
+2020-04-18,SHAB_AM,Zachery Perlstein,NL,,3,2e
+2020-04-18,SHAB_AM,Ben Gil,"Remy,BC",,B,3e
+2020-04-18,SHAB_AM,Sruly A,"AE,CR",,MA,3l
+2020-04-18,SHAB_AM,Nosson Weissman,Mendy,,2,2l
+2020-04-18,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-04-18,SHAB_PM,Yosef Gerecht,"Mendy,CR",Bookbags,1,
+2020-04-18,SHAB_PM,Pinhas Adout,Remy,"Boxes,House help",2,
+2020-04-18,SHAB_PM,Zachery Perlstein,"AE,YF","Sanitizing,Restocking",3,
+2020-04-18,SHAB_PM,Ben Gil,NL,"1st floor,Elevator cleanup",B,
+2020-04-18,SHAB_PM,Sruly A,SI,"Living room,Basement clean up",MA,
+2020-04-18,SHAB_PM,Nosson Weissman,"YE,mb",Kitchen PM,2,
+2020-04-18,SHAB_PM,Yaakov Abeaziz,BC,AMAP,FB,
+2020-04-24,FRI_PM,Yosef Gerecht,"SI,CR",Sanitizing,1,
+2020-04-24,FRI_PM,Pinhas Adout,AE,House help,2,"2e,2l"
+2020-04-24,FRI_PM,Zachery Perlstein,NL,"Empty bookbags,Boxes",3,
+2020-04-24,FRI_PM,Moshe Brum,"Mendy,MB","Living room,Basement cleanup",B,
+2020-04-24,FRI_PM,Ben Gil,"YE,YF",Kitchen,MA,
+2020-04-24,FRI_PM,Nosson Weissman,BC,AMAP,FB,
+2020-04-25,SHAB_AM,Yosef Gerecht,"AE,YE",,1,
+2020-04-25,SHAB_AM,Nosson Weissman,"SI,BC",,2,
+2020-04-25,SHAB_AM,Zachery Perlstein,Mendy,,3,
+2020-04-25,SHAB_AM,Moshe Brum,"MB,CR",,B,
+2020-04-25,SHAB_AM,Ben Gil,NL,,MA,
+2020-04-25,SHAB_AM,Nosson Weissman,YF,AMAP,FB,
+2020-04-25,SHAB_PM,Yosef Gerecht,NL,"1st floor,Elevator",1,
+2020-04-25,SHAB_PM,Nosson Weissman,Mendy,House help,2,
+2020-04-25,SHAB_PM,Zachery Perlstein,"MB,CR","Living room,Basement",3,
+2020-04-25,SHAB_PM,Moshe Brum,"SI,BC",,B,
+2020-04-25,SHAB_PM,Ben Gil,"AE,YE",,MA,
+2020-04-25,SHAB_PM,Pinhas Adout,YF,AMAP,FB,
+2020-05-01,FRI_PM,Moshe Brum,NL,Sanitizing,1,3e
+2020-05-01,FRI_PM,Pinhas Adout,AE,House help,2,"2e,2l"
+2020-05-01,FRI_PM,Zachery Perlstein,Mendy,"Empty bookbags,Boxes",3,
+2020-05-01,FRI_PM,Ben Gil,"CR,BC","Living room,Basement clean up",B,
+2020-05-01,FRI_PM,Yosef Gerecht,"YE,YF",Kitchen,MA,
+2020-05-01,FRI_PM,Nosson Weissman,MB,AMAP,FB,3l
+2020-05-02,SHAB_AM,Moshe Brum,"BC,CR",,1,
+2020-05-02,SHAB_AM,Nosson Weissman,NL,,2,
+2020-05-02,SHAB_AM,Zachery Perlstein,"YE,MB",,3,
+2020-05-02,SHAB_AM,Ben Gil,Mendy,,B,
+2020-05-02,SHAB_AM,Yosef Gerecht,AE,,MA,
+2020-05-02,SHAB_AM,Pinhas Adout,YF,AMAP,FB,
+2020-05-02,SHAB_PM,Moshe Brum,Mendy,"1st floor,Elevator",1,2l
+2020-05-02,SHAB_PM,Pinhas Adout,AE,"Boxes,House help,Kitchen AM",2,
+2020-05-02,SHAB_PM,Zachery Perlstein,NL,"Restocking,Sanitizing",3,3e
+2020-05-02,SHAB_PM,Ben Gil,"YE,MB",Kitchen PM,B,2e
+2020-05-02,SHAB_PM,Yosef Gerecht,"BC,CR","Living room,Basement",MA,3l
+2020-05-02,SHAB_PM,Nosson Weissman,YF,AMAP,FB,
+2020-05-08,FRI_PM,Moshe Brum,NL,"Sanitizing,Restocking",1,3e
+2020-05-08,FRI_PM,Pinhas Adout,BC,"House help,1st floor,Elevator",2,"2e,2l"
+2020-05-08,FRI_PM,Shimshi Zellermaier,"AE,CR","Empty bookbags,Boxes",3,3l
+2020-05-08,FRI_PM,Zachery Perlstein,Mendy,"Living room,Basement clean up",B,
+2020-05-08,FRI_PM,Nosson Weissman,"MB,YE",Kitchen,MA,
+2020-05-08,FRI_PM,Sruly A,YF,AMAP,FB,
+2020-05-09,SHAB_AM,Moshe Brum,"YE,CR",,1,
+2020-05-09,SHAB_AM,Shimshi Zellermaier,"MB,BC",,2,
+2020-05-09,SHAB_AM,Sruly A,Mendy,,3,
+2020-05-09,SHAB_AM,Zachery Perlstein,NL,,B,
+2020-05-09,SHAB_AM,Nosson Weissman,"AE,YF",,MA,
+2020-05-09,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-05-09,SHAB_PM,Moshe Brum,"AE,YF","Restocking,Sanitizing",1,2e
+2020-05-09,SHAB_PM,Pinhas Adout,YE,"House help,Kitchen AM",2,
+2020-05-09,SHAB_PM,Sruly A,NL,"1st floor,Elevator",3,3e
+2020-05-09,SHAB_PM,Zachery Perlstein,"MB,CR","Bookbags,Boxes",B,2l
+2020-05-09,SHAB_PM,Nosson Weissman,Mendy,"Living room,Basement",MA,3l
+2020-05-09,SHAB_PM,Shimshi Zellermaier,BC,AMAP,FB,
+2020-05-15,FRI_PM,Sruly A,"AE,BC",Sanitizing,1,2e
+2020-05-15,FRI_PM,Sruli Teitelbaum,ZW,House help,2,2l
+2020-05-15,FRI_PM,Ben Gil,"MF,YF","Empty bookbags,Boxes",3,
+2020-05-15,FRI_PM,Joey Bouskila,SI,"Living room,Basement clean up",B,3l
+2020-05-15,FRI_PM,Zachery Perlstein,"YE,MB",Kitchen,MA,
+2020-05-15,FRI_PM,Yaakov Abeaziz,NL,"1st floor,Elevator clean up",2,3e
+2020-05-15,FRI_PM,Nosson Weissman,"DF,CR",Kitchen help,3,
+2020-05-15,FRI_PM,Nachi Frankel,,AMAP,FB,
+2020-05-16,SHAB_AM,Sruly A,"YE,MB",,1,
+2020-05-16,SHAB_AM,Nachi Frankel,NL,,2,
+2020-05-16,SHAB_AM,Ben Gil,SI,,3,
+2020-05-16,SHAB_AM,Joey Bouskila,MF,,B,
+2020-05-16,SHAB_AM,Zachery Perlstein,"AE,BC",,MA,
+2020-05-16,SHAB_AM,Yaakov Abeaziz,"DF,CR",,2,
+2020-05-16,SHAB_AM,Nosson Weissman,"ZW,YF",,3,
+2020-05-16,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-05-16,SHAB_PM,Sruli Teitelbaum,YE,House help,1,
+2020-05-16,SHAB_PM,Nachi Frankel,"ZW,CR",Kitchen PM,2,2e
+2020-05-16,SHAB_PM,Ben Gil,"AE,YF",House help,3,2l
+2020-05-16,SHAB_PM,Joey Bouskila,"DF,MB",Bookbags,B,
+2020-05-16,SHAB_PM,Zachery Perlstein,SI,"Living room,Basement clean up",MA,3l
+2020-05-16,SHAB_PM,Yaakov Abeaziz,"MF,BC",Kitchen AM,2,
+2020-05-16,SHAB_PM,Nosson Weissman,NL,"1st floor,Elevator clean up",3,3e
+2020-05-16,SHAB_PM,Sruly A,,AMAP,FB,
+2020-05-22,FRI_PM,Ben Gil,NL,"Sanitizing,Restocking",1,3e
+2020-05-22,FRI_PM,Pinhas Adout,DF,House help,2,2e
+2020-05-22,FRI_PM,Moshe Brum,"AE,CR","Empty bookbags,Boxes",3,
+2020-05-22,FRI_PM,Yosef Gerecht,"Mendy,F","Living room,Basement cleanup",B,
+2020-05-22,FRI_PM,Nosson Weissman,"MB,YE",Kitchen,MA,2l
+2020-05-22,FRI_PM,Nachi Frankel,"ZW,YE",Kitchen help,2,
+2020-05-22,FRI_PM,Zachery Perlstein,SI,"1st floor, Elevator",3,3l
+2020-05-22,FRI_PM,Sruli Teitelbaum,BC,AMAP,FB,
+2020-05-23,SHAB_AM,Ben Gil,"AE,YF",,1,
+2020-05-23,SHAB_AM,Nosson Weissman,"Mendy F,BC",,2,
+2020-05-23,SHAB_AM,Moshe Brum,SI,,3,
+2020-05-23,SHAB_AM,Yosef Gerecht,"MB,YE",,B,
+2020-05-23,SHAB_AM,Sruli Teitelbaum,ZW,,MA,
+2020-05-23,SHAB_AM,Nachi Frankel,NL,,2,
+2020-05-23,SHAB_AM,Zachery Perlstein,"DF,CR",,3,
+2020-05-23,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-05-23,SHAB_PM,Ben Gil,SI,Bookbags,1,
+2020-05-23,SHAB_PM,Pinhas Adout,ZW,"House help,Boxes",2,
+2020-05-23,SHAB_PM,Moshe Brum,"MB,YE",Kitchen PM,3,3l
+2020-05-23,SHAB_PM,Yosef Gerecht,NL,Kitchen AM/Restocking,B,3e
+2020-05-23,SHAB_PM,Sruli Teitelbaum,CR,"Living room,Basement",MA,2e
+2020-05-23,SHAB_PM,Nachi Frankel,"DF,BC","1st floor,Elevator",2,2l
+2020-05-23,SHAB_PM,Zachery Perlstein,"AE,Mendy","Restocking,Sanitizing",3,
+2020-05-23,SHAB_PM,Nosson Weissman,YF,AMAP,FB,
+2020-05-28,FRI_PM,Ben Gil,SI,"Restocking,Sanitizing",1,
+2020-05-28,FRI_PM,Pinhas Adout,ZW,House help,2,
+2020-05-28,FRI_PM,Yaakov Abeaziz,"MB,YE","Empty bookbags,Boxes(delivery)",3,
+2020-05-28,FRI_PM,Zachery Perlstein,NL,"Living room,Basement",B,
+2020-05-28,FRI_PM,Nosson Weissman,CR,Kitchen,MA,
+2020-05-28,FRI_PM,Yosef Gerecht,"DF,BC","1st floor,Elevator clean up",2,
+2020-05-28,FRI_PM,Nachi Frankel,"AE,Mendy",AMAP,FB,
+2020-05-29,SHAB_AM,Ben Gil,YF,,1,
+2020-05-29,SHAB_AM,Nosson Weissman,"MB,YE",,2,
+2020-05-29,SHAB_AM,Yaakov Abeaziz,YF,,3,
+2020-05-29,SHAB_AM,Zachery Perlstein,Mendy F,,B,
+2020-05-29,SHAB_AM,Nachi Frankel,NL,,MA,
+2020-05-29,SHAB_AM,Yosef Gerecht,"BC,CR",,2,
+2020-05-29,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-05-29,SHAB_PM,Ben Gil,NL,"Living room,Basement",1,
+2020-05-29,SHAB_PM,Pinhas Adout,Mendy F,"Kitchen AM,House help",2,
+2020-05-29,SHAB_PM,Yaakov Abeaziz,"MB,YE",Kitchen(cooking and PM),3,
+2020-05-29,SHAB_PM,Zachery Perlstein,"BC,CR",1st floor,B,
+2020-05-29,SHAB_PM,Nachi Frankel,YF,Bookbags,MA,
+2020-05-29,SHAB_PM,Yosef Gerecht,AE,"Restocking,Sanitizing",2,
+2020-05-29,SHAB_PM,Nosson Weissman,,AMAP,FB,
+2020-05-30,SHAB_AM,Ben Gil,"YE,MB",,1,
+2020-05-30,SHAB_AM,Yaakov Abeaziz,NL,,2,
+2020-05-30,SHAB_AM,Nosson Weissman,Mendy F,,3,
+2020-05-30,SHAB_AM,Zachery Perlstein,YF,,B,
+2020-05-30,SHAB_AM,Nachi Frankel,"BC,CR",,MA,
+2020-05-30,SHAB_AM,Yosef Gerecht,NL,,2,
+2020-05-30,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-05-30,SHAB_PM,Ben Gil,Mendy F,"Sanitizing,Boxes",1,
+2020-05-30,SHAB_PM,Pinhas Adout,BC,House help,2,
+2020-05-30,SHAB_PM,Nosson Weissman,MB,"Living room,Basement",3,
+2020-05-30,SHAB_PM,Zachery Perlstein,NL,"Kitchen AM,Restocking",B,
+2020-05-30,SHAB_PM,Nachi Frankel,"AE,CR (Ben)","Bookbags,",MA,
+2020-05-30,SHAB_PM,Yosef Gerecht,"YF,YE",Kitchen PM,2,
+2020-05-30,SHAB_PM,Yaakov Abeaziz,,AMAP,FB,
+2020-06-05,FRI_PM,Moshe Brum,"Mendy,YM",Kitchen Help,1,
+2020-06-05,FRI_PM,Pinhas Adout,DF,House Help,2,2e
+2020-06-05,FRI_PM,Yosef Gerecht,NL,"Empty Bookbags, Boxes",3,3e
+2020-06-05,FRI_PM,Zach Shulman,SI,Living Room,B,
+2020-06-05,FRI_PM,Ben Gil,"YE,MB",Kitchen,MA,
+2020-06-05,FRI_PM,Shimshi Zellermaier,"AE,YF","1st Floor,Elevator Clean up BEFORE SHABBAT",2,2l
+2020-06-05,FRI_PM,Sruly A,"ZW,CR","Restocking,Sanitizing",3,3l
+2020-06-05,FRI_PM,Nachi Frankel,BC,AMAP,FB,
+2020-06-06,SHAB_AM,Moshe Brum,"AE,CR",,1,
+2020-06-06,SHAB_AM,Sruly A,"MB,YE",,2,
+2020-06-06,SHAB_AM,Yosef Gerecht,"DF,YM",,3,
+2020-06-06,SHAB_AM,Zach Shulman,Mendy F,,B,
+2020-06-06,SHAB_AM,Ben Gil,NL,,MA,
+2020-06-06,SHAB_AM,Shimshi Zellermaier,SI,,2,
+2020-06-06,SHAB_AM,Nachi Frankel,"ZW,YF",,3,
+2020-06-06,SHAB_AM,Pinhas Adout,BC,AMAP,FB,
+2020-06-06,SHAB_PM,Moshe Brum,SI,"Restocking,Sanitizing",1,3l
+2020-06-06,SHAB_PM,Pinhas Adout,ZW,House help(pa) / Kitchen Am(SA),2,
+2020-06-06,SHAB_PM,Yosef Gerecht,"Mendy F,BC",Living Room,3,
+2020-06-06,SHAB_PM,Zach Shulman,"AE,YE",Basomen t,B,2e
+2020-06-06,SHAB_PM,Ben Gil,"YE,MB",Book bags,MA,2l
+2020-06-06,SHAB_PM,Shimshi Zellermaier,"DF,CR",Kitchen PM,2,
+2020-06-06,SHAB_PM,Nachi Frankel,NL,"1st floor , Elevator",3,3e
+2020-06-06,SHAB_PM,Sruly A,YF,AMAP,FB,
+2020-06-12,FRI_PM,Zach Shulman,NL,Kitchen Help,1,3e
+2020-06-12,FRI_PM,Pinhas Adout,DF,House Help,2,2e
+2020-06-12,FRI_PM,Ben Gil,"AE,CR","Empty Bookbags , Boxes",3,2l
+2020-06-12,FRI_PM,Sruli Teitelbaum,"ZW,BC (MAX)",Living room,B,
+2020-06-12,FRI_PM,Zachery Perlstein,"MB,YE (BEN)",Kitchen,MA,
+2020-06-12,FRI_PM,Nosson Weissman,"Mendy F,YM","1st Floor,Elevator Clean up BEFORE SHABBAT",2,3l
+2020-06-12,FRI_PM,Yosef Gerecht,SI,"Restocking,Sanitizing",3,
+2020-06-12,FRI_PM,Nachi Frankel,YF,AMAP,FB,
+2020-06-13,SHAB_AM,Zach Shulman,"AE,YM(BEN)",,1,
+2020-06-13,SHAB_AM,Nosson Weissman,ZW,,2,
+2020-06-13,SHAB_AM,Ben Gil,"MB,YE(MAX)",,3,
+2020-06-13,SHAB_AM,Sruli Teitelbaum,SI,,B,
+2020-06-13,SHAB_AM,Zachery Perlstein,"AE,YM",,MA,
+2020-06-13,SHAB_AM,Nachi Frankel,NL(BEN),,2,
+2020-06-13,SHAB_AM,Yosef Gerecht,"DF,CR",,3,
+2020-06-13,SHAB_AM,Pinhas Adout,BC,AMAP,FB,
+2020-06-13,SHAB_PM,Zach Shulman,"Mendy F,YF","1st Floor,  Elevator",1,
+2020-06-13,SHAB_PM,Pinhas Adout,ZW,"Kitchen AM(nw),House help(PA)",2,
+2020-06-13,SHAB_PM,Ben Gil,"MB,YE(Max)",Kitchen PM,3,
+2020-06-13,SHAB_PM,Sruli Teitelbaum,SI,"Restocking,Sanitizing",B,2l
+2020-06-13,SHAB_PM,Zachery Perlstein,"AE,YM","House help,Restocking",MA,2e
+2020-06-13,SHAB_PM,Nachi Frankel,NL(Ben),"Book bags,Boxes",2,3e
+2020-06-13,SHAB_PM,Yosef Gerecht,"DF,CR","Living Room,Basement",3,3l
+2020-06-13,SHAB_PM,Nosson Weissman,BC,AMAP,FB,
+2020-06-19,FRI_PM,Sruly A,"DF,CR",Kitchen Help,1,3e
+2020-06-19,FRI_PM,Sruli Teitelbaum,ZW,House Help,2,"2e,2l"
+2020-06-19,FRI_PM,Nosson Weissman,NL,"Empty Bookbags , Boxes",3,3l
+2020-06-19,FRI_PM,Moshe Brum,"AE,YM",Living room,B,
+2020-06-19,FRI_PM,Yaakov Abeaziz,"YE,MB",Kitchen,MA,
+2020-06-19,FRI_PM,Joey Bouskila,"MF,YF","1st Floor ,Elevator Clean up BEFORE SHABBAT",2,
+2020-06-19,FRI_PM,Zachery Perlstein,SI,"Restocking, Sanitizing",3,
+2020-06-19,FRI_PM,Nachi Frankel,BC,AMAP,FB,
+2020-06-,SHAB_AM,Sruly A,SI,,1,
+2020-06-,SHAB_AM,Nachi Frankel,NL,,2,
+2020-06-,SHAB_AM,Nosson Weissman,"MF,YF",,3,
+2020-06-,SHAB_AM,Moshe Brum,"YE,MB",,B,
+2020-06-,SHAB_AM,Yaakov Abeaziz,"ZW,CR",,MA,
+2020-06-,SHAB_AM,Joey Bouskila,"AE,BC",,2,
+2020-06-,SHAB_AM,Zachery Perlstein,"DF,YM",,3,
+2020-06-,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-06-,SHAB_PM,Sruli Teitelbaum,YE,House Help,1,
+2020-06-,SHAB_PM,Nachi Frankel,"AE,CR","1st Floor ,Elevator Clean up",2,
+2020-06-,SHAB_PM,Nosson Weissman,SI,"Restocking , Sanitizing",3,
+2020-06-,SHAB_PM,Moshe Brum,"ZW,YF",Kitchen PM,B,2l
+2020-06-,SHAB_PM,Yaakov Abeaziz,"MF,YM","Living Room , Basement",MA,2e
+2020-06-,SHAB_PM,Joey Bouskila,"DF,MB",Bookbags,2,3l
+2020-06-,SHAB_PM,Zachery Perlstein,NL,"Kitchen AM , House Help",3,3e
+2020-06-,SHAB_PM,Sruly A,BC,AMAP,FB,
+2020-06-26,FRI_PM,Ben Gil,SI,Kitchen Help,1,
+2020-06-26,FRI_PM,Pinhas Adout,DF,"Empty Bookbags , Boxes",2,2e
+2020-06-26,FRI_PM,Moshe Brum,"ZW,YM",Living rom,3,3e
+2020-06-26,FRI_PM,Zach Shulman,NL,Kitchen,B,3l
+2020-06-26,FRI_PM,Zachery Perlstein,"MB,YE(Max)","1st Floor ,Elevator Clean up BEFORE SHABBAT",MA,
+2020-06-26,FRI_PM,Shimshi Zellermaier,"AE,CR(Yaakov)","Restocking, Sanitizing",2,2l
+2020-06-26,FRI_PM,Yosef Gerecht,"Mendy F,BC",Check Meds & Book. Restock & Clean Med Cabinet,3,
+2020-06-26,FRI_PM,Nosson Weissman,YF,AMAP,FB,
+2020-06-27,SHAB_AM,Ben w,"AE,YF",,1,
+2020-06-27,SHAB_AM,Shimshi Zellermaier,SI(Max),,2,
+2020-06-27,SHAB_AM,Moshe Brum,NL,,3,
+2020-06-27,SHAB_AM,Zach Shulman,Mendy F,,B,
+2020-06-27,SHAB_AM,Zachery Perlstein,"ZW,YM",,MA,
+2020-06-27,SHAB_AM,Nosson Weissman,"MB,YE",,2,
+2020-06-27,SHAB_AM,Yosef Gerecht,"DF,CR",,3,
+2020-06-27,SHAB_AM,Pinhas Adout,BC(Yaakov),AMAP,FB,
+2020-06-27,SHAB_PM,Ben W,"YE,MB",Kitchen PM,1,2l
+2020-06-27,SHAB_PM,Pinhas Adout,ZW,"House help,boxes",2,
+2020-06-27,SHAB_PM,Moshe Brum,"Mendy F,YF",Restocking,3,
+2020-06-27,SHAB_PM,Zach Shulman,"AE,YM (Max)",Bookbags,B,
+2020-06-27,SHAB_PM,Zachery Perlstein,SI,Kitchen AM,MA,2e
+2020-06-27,SHAB_PM,Nosson Weissman,"DF,CR (Yaakov)","1st Floor ,Elevator",2,3l
+2020-06-27,SHAB_PM,Yosef Gerecht,NL,"Living room , Basement",3,3e
+2020-06-27,SHAB_PM,Shimshi Zellermaier,BC,AMAP,FB,
+2020-07-03,FRI_PM,Zach Shulman,"MB,CR (Yaakov)","Sanitizng,1st Floor ,Elevator Clean up",1,3e
+2020-07-03,FRI_PM,Pinhas Adout,AE,House Help,2,2l
+2020-07-03,FRI_PM,Matthew Davis,"Mendy F,YF","Empty Bookbags , Boxes",3,
+2020-07-03,FRI_PM,Yosef Gerecht,NL,"Living room , Basement Clean up",B,3l
+2020-07-03,FRI_PM,Nosson Weissman,"YE,BC","Kitchen , Kitchen Help",MA,
+2020-07-03,FRI_PM,Sruly A,YM,AMAP,FB,
+2020-07-04,SHAB_AM,Zach Shulman,NL,,1,
+2020-07-04,SHAB_AM,Nosson Weissman,"Mendy F,YF",,2,
+2020-07-04,SHAB_AM,Matthew Davis,"YE,YM(Yaakov)",,3,
+2020-07-04,SHAB_AM,Yosef Gerecht,"AE,CR",,B,
+2020-07-04,SHAB_AM,Sruly A,"MB,BC",,MA,
+2020-07-04,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-07-04,SHAB_PM,Zach Shulman,"Mendy F,YF","Restocking , Boxes",1,
+2020-07-04,SHAB_PM,Pinhas Adout,YE,"Kitchen AM(PA) , Living room Basement (NW)",2,
+2020-07-04,SHAB_PM,Matthew Davis,"AE,CR",1st Floor Elevator,3,3l
+2020-07-04,SHAB_PM,Yosef Gerecht,"MB,BC","Kitchen PM , Sanitizing",B,2e
+2020-07-04,SHAB_PM,Sruly A,NL (Yaakv),Bookbags,MA,3e
+2020-07-04,SHAB_PM,Nosson Weissman,YM,AMAP,FB,2l
+2020-07-17,FRI_PM,Matthew Davis,NL,Living Room,1,
+2020-07-17,FRI_PM,Pinhas Adout,DF,House Help,2,2e
+2020-07-17,FRI_PM,Zach Shulman,SI (Yaakov),"Empty Bookbags , Boxes",3,
+2020-07-17,FRI_PM,Ben Gil,"ZW,YF",Kitchen help,B,
+2020-07-17,FRI_PM,Ben Wexler,"MB,BC",Kitchen,MA,3l
+2020-07-17,FRI_PM,Yosef Gerecht,"YE,AE","1st Floor ,Elevator Clean Up BEFORE SHABBAT",2,
+2020-07-17,FRI_PM,Zachery Perlstein,"Mendy F,CR","Restocking, Sanitizing",3,
+2020-07-17,FRI_PM,Nosson Weissman,YM,AMAP,FB,2l
+2020-07-18,SHAB_AM,Matthew Davis,"DF,CR",,1,3e
+2020-07-18,SHAB_AM,Nosson Weissman,"SI,AE",,2,
+2020-07-18,SHAB_AM,Ben Gil,"MB,BC",,3,
+2020-07-18,SHAB_AM,Zach Shulman,Mendy F,,B,
+2020-07-18,SHAB_AM,Ben wex,"YE,YM",,MA,
+2020-07-18,SHAB_AM,Yosef Gerecht,NL,,2,
+2020-07-18,SHAB_AM,Zachery Perlstein,"ZW,YF",,3,
+2020-07-18,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-07-18,SHAB_PM,Matthew Davis,"MB,YE (Yaakov)","Kitchen PM , Sanitizing",1,
+2020-07-18,SHAB_PM,Pinhas Adout,Mendy F,House help,2,
+2020-07-18,SHAB_PM,Ben Gil,NL,Kitchen AM,3,3e
+2020-07-18,SHAB_PM,Zach Shulman,"AE,YF","Living Room , Basement",B,2e
+2020-07-18,SHAB_PM,Ben W,SI,"Restocking , Boxes",MA,
+2020-07-18,SHAB_PM,Yosef Gerecht,"ZW,CR","1st Floor , Elevator",2,
+2020-07-18,SHAB_PM,Zachery Perlstein,"DF,BC",Bookbags,3,2l
+2020-07-18,SHAB_PM,Nosson Weissman,YM,AMAP,FB,
+2020-07-31,FRI_PM,Nosson Weissman,"DF,YM",Kitchen Help,1,3l
+2020-07-31,FRI_PM,Sruli Teitelbaum,ZW,House Help,2,2l
+2020-07-31,FRI_PM,Jake Goldson,"AE,CR","Empty Bookbags , Boxes",3,
+2020-07-31,FRI_PM,Yosef Gerecht,"MF,YF","Living room , Basement Clean up",B,
+2020-07-31,FRI_PM,Matthew Davis,"YE,MB",Kitchen,MA,
+2020-07-31,FRI_PM,Ben Wexler,NL,"1st Floor ,Elevator Clean up",2,
+2020-07-31,FRI_PM,Zach P,SI,"Restocking , Sanitizing",3,
+2020-07-31,FRI_PM,Nachi Frankel,BC,AMAP,FB,
+2020-08-01,SHAB_AM,Nosson Weissman,SI,,1,
+2020-08-01,SHAB_AM,Nachi Frankel,NL,,2,
+2020-08-01,SHAB_AM,Jake Goldson,"YE,MB",,3,
+2020-08-01,SHAB_AM,Yosef Gerecht,"DF,CR",,B,
+2020-08-01,SHAB_AM,Matthew Davis,"MF,YM",,MA,
+2020-08-01,SHAB_AM,Ben Wexler,"AE,YF",,2,
+2020-08-01,SHAB_AM,Zachery Perlstein,"ZW,BC",,3,
+2020-08-01,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-08-01,SHAB_PM,Sruli Teitelbaum,YE,House Help,1,
+2020-08-01,SHAB_PM,Nachi Frankel,"ZW,CR",Bookbags,2,2e
+2020-08-01,SHAB_PM,Jake Goldson,SI,"Restocking , Sanitizing",3,3l
+2020-08-01,SHAB_PM,Yosef Gerecht,"AE,YM",Kitchen PM,B,3l
+2020-08-01,SHAB_PM,Matthew Davis,NL,"1st Floor , Elevator Clean up",MA,3e
+2020-08-01,SHAB_PM,Ben Wexler,"MF,YF","Living Room , Basement",2,2l
+2020-08-01,SHAB_PM,Zachery Perlstein,"DF,MB","Kitchen AM , House Help",3,2l
+2020-08-01,SHAB_PM,Nosson Weissman,BC,AMAP,FB,
+2020-08-14,FRI_PM,Ben Wexler,"Mendy F,BC","Restocking , Sanitizing",1,
+2020-08-14,FRI_PM,Pinhas Adout,DF,House Help,2,2e
+2020-08-14,FRI_PM,Jake Goldson,SI,"Empty Bookbags , Boxes",3,
+2020-08-14,FRI_PM,Yaakov Eiferman,NL,Living room,B,3e
+2020-08-14,FRI_PM,Ben Gil,"MB,YE",Kitchen,MA,
+2020-08-14,FRI_PM,Matthew Davis,"AE,YM (Menachem)","1st Floor ,Elevator Clean up BEFORE SHABBAT",2,
+2020-08-14,FRI_PM,Yosef Gerecht,"ZW,CR",Kitchen Help,3,3l
+2020-08-14,FRI_PM,Nosson Weissman,YF,AMAP,FB,2l
+2020-08-15,SHAB_AM,Ben Wexler,SI,,1,
+2020-08-15,SHAB_AM,Nosson Weissman,"DF,CR (Menachem)",,2,
+2020-08-15,SHAB_AM,Jake Goldson,"YM,BC",,3,
+2020-08-15,SHAB_AM,Yaakov Abeaziz,"MB,YF",,B,
+2020-08-15,SHAB_AM,Ben Gil,Mendy F,,MA,
+2020-08-15,SHAB_AM,Matthew Davis,NL,,2,
+2020-08-15,SHAB_AM,Yosef Gerecht,"AE,YE",,3,
+2020-08-15,SHAB_AM,Pinhas Adout,ZW,AMAP,FB,
+2020-08-15,SHAB_PM,Ben Wexler,"AE,CR","Living Room , Basement",1,2e
+2020-08-15,SHAB_PM,Pinhas Adout,ZW (Menachem),House help,2,
+2020-08-15,SHAB_PM,Jake Goldson,"Mendy F,BC","Kitchen AM, Boxes",3,3l
+2020-08-15,SHAB_PM,Yaakov Eiferman,SI,"Restocking , Sanitizing",B,
+2020-08-15,SHAB_PM,Ben Gil,NL,Bookbags,MA,3e
+2020-08-15,SHAB_PM,Matthew Davis,"MB,YE",Kitchen PM,2,2l
+2020-08-15,SHAB_PM,Yosef Gerecht,"DF,YM",1st Floor Elevator,3,
+2020-08-15,SHAB_PM,Nosson Weissman,YF,AMAP,FB,
+2020-08-21,FRI_PM,Joey G,"DF,YF",Kitchen Help,1,
+2020-08-21,FRI_PM,Sruli Teitelbaum,ZW,House Help,2,
+2020-08-21,FRI_PM,Shimshi Zellermaier,SI,"Empty Bookbags , Boxes",3,
+2020-08-21,FRI_PM,Ben Wexler,"AE,CR","Living room , Basement Clean up",B,
+2020-08-21,FRI_PM,Jake Goldson,"YE,MB",Kitchen,MA,
+2020-08-21,FRI_PM,Zach Shulman,NL,"1st Floor ,Elevator Clean up",2,
+2020-08-21,FRI_PM,Max G,"MF,YM","Restocking , Sanitizing",3,
+2020-08-21,FRI_PM,Sruly A,BC,AMAP,FB,
+2020-08-22,SHAB_AM,Joey G,"AE,CR",,1,
+2020-08-22,SHAB_AM,Sruly A,"DF,BC",,2,
+2020-08-22,SHAB_AM,Shimshi Zellermaier,"MF,YF",,3,
+2020-08-22,SHAB_AM,Ben Wexler,"YE,MB",,B,
+2020-08-22,SHAB_AM,Jake Goldson,NL,,MA,
+2020-08-22,SHAB_AM,Zach Shulman,"ZW,YM",,2,
+2020-08-22,SHAB_AM,Max G,SI,,3,
+2020-08-22,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-08-22,SHAB_PM,Joey G,"MF,MB",Kitchen PM,1,
+2020-08-22,SHAB_PM,Sruly A,SI,"Restocking , Sanitizing",2,
+2020-08-22,SHAB_PM,Sruli Teitelbaum,DF,House Help,3,
+2020-08-22,SHAB_PM,Ben Wexler,NL,"1st Floor , Elevator Clean up",B,
+2020-08-22,SHAB_PM,Jake Goldson,"YE,MB",Bookbags,MA,
+2020-08-22,SHAB_PM,Zach Shulman,ZW,"Kitchen AM , House Help",2,
+2020-08-22,SHAB_PM,Max G,"AE,YF","Living Room , Basement",3,
+2020-08-22,SHAB_PM,Shimshi Zellermaier,"CR,BC",AMAP,FB,
+2020-08-28,FRI_PM,Zachery Perlstein,"ZW,CR",Kitchen Help,1,2l
+2020-08-28,FRI_PM,Pinhas Adout,DF,House Help,2,2e
+2020-08-28,FRI_PM,Yaakov Abeaziz,SI (Menachem),"Empty Bookbags , Boxes",3,
+2020-08-28,FRI_PM,Yosef Gerecht,NL,Living room,B,3e
+2020-08-28,FRI_PM,Yaakov Eiferman,"YE,MB",Kitchen,MA,3l
+2020-08-28,FRI_PM,Zach Shulman,"AE,YF","1st Floor ,Elevator Clean up BRFORE SHABBAT",2,
+2020-08-28,FRI_PM,Jake Goldson,"Mendy F,BC","Restocking , Sanitizing",3,
+2020-08-28,FRI_PM,Nosson Weissman,YM,AMAP,FB,
+2020-08-29,SHAB_AM,Zachery Perlstein,"Mendy F,BC",,1,
+2020-08-29,SHAB_AM,Yaakov Abeaziz,NL,,2,
+2020-08-29,SHAB_AM,Nosson Weissman,"ZW,YF (Menachem)",,3,
+2020-08-29,SHAB_AM,Yosef Gerecht,"DF,YM",,B,
+2020-08-29,SHAB_AM,Yaakov Eiferman,"AE,CR",,MA,
+2020-08-29,SHAB_AM,Zach Shulman,SI,,2,
+2020-08-29,SHAB_AM,Jake Goldson,"YE,MB",,3,
+2020-08-29,SHAB_AM,Pinhas Adout,,AMAP,FB,
+2020-08-29,SHAB_PM,Zachery Perlstein,"YE,MB (Menachem)",Living room Basement,1,
+2020-08-29,SHAB_PM,Pinhas Adout,ZW,House Help,2,
+2020-08-29,SHAB_PM,Nosson Weissman,"DF,BC","Kitchen AM, Sanitizing",3,2e
+2020-08-29,SHAB_PM,Yosef Gerecht,"AE,CR",1st Floor Elevator,B,
+2020-08-29,SHAB_PM,Yaakov Eiferman,"Mendy F,YF",Bookbags,MA,2l
+2020-08-29,SHAB_PM,Zach Shulman,NL,Kitchen PM,2,3e
+2020-08-29,SHAB_PM,Jake Goldson,SI,Restoking,3,3l
+2020-08-29,SHAB_PM,Yaakov Abeaziz,YM,AMAP,FB,
+2020-09-04,FRI_PM,Nosson Weissman,"AE,BC","1st Floor , Elevator Clean up",1,3l
+2020-09-04,FRI_PM,Pinhas Adout,MF,House Help,2,"2e,2l"
+2020-09-04,FRI_PM,Zach Shulman,"SI,YM","Empty Bookbags , Boxes",3,
+2020-09-04,FRI_PM,Moshe Brum,NL,"Living room , Basement Clean up",B,3e
+2020-09-04,FRI_PM,Zachery Perlstein,"MB,YF","Kitchen Sanitizing , Restoking",MA,
+2020-09-04,FRI_PM,Sruly A,CR,AMAP,FB,
+2020-09-05,SHAB_AM,Sruly A,NL,,1,
+2020-09-05,SHAB_AM,Nosson Weissman,"SI,YF",,2,
+2020-09-05,SHAB_AM,Zach Shulman,MF,,3,
+2020-09-05,SHAB_AM,Moshe Brum,"AE,CR",,B,
+2020-09-05,SHAB_AM,Zachery Perlstein,"MB,BC",,MA,
+2020-09-05,SHAB_AM,Pinhas Adout,YM,AMAP,FB,
+2020-09-05,SHAB_PM,Sruly A,"SI,YF",Bookbags,1,2e
+2020-09-05,SHAB_PM,Pinhas Adout,AE,"Kitchen AM / Boxes,House Help",2,
+2020-09-05,SHAB_PM,Zach Shulman,"MB,YM","Sanitizing,Restocking",3,3l
+2020-09-05,SHAB_PM,Moshe Brum,MF,Kitchen PM,B,
+2020-09-05,SHAB_PM,Zachery Perlstein,"NL,BC","Living room , Basement Clean up",MA,3e
+2020-09-05,SHAB_PM,Nosson Weissman,CR,AMAP,FB,2l
+2020-10-02,FRI_PM,Zachery Perlstein,"AE,CR",Kitchen Help,1,
+2020-10-02,FRI_PM,Sruli Teitelbaum,YM,House Help,2,2l
+2020-10-02,FRI_PM,Moshe Brum,"SL,BC","Empty Bookbags , Boxes",3,3l
+2020-10-02,FRI_PM,Joey G,NL,"Living room , Basement",B,
+2020-10-02,FRI_PM,Jake Goldson,"YE,MB",Kitchen,MA,
+2020-10-02,FRI_PM,Ben Gil,MF,1st Floor & Elevator Clean up,2,
+2020-10-02,FRI_PM,Nosson Weissman,YF,AMAP,FB,
+2020-10-03,SHAB_AM,Zachery Perlstein,MF,,1,
+2020-10-03,SHAB_AM,Nosson Weissman,NL,,2,
+2020-10-03,SHAB_AM,Moshe Brum,"YE,YM",,3,
+2020-10-03,SHAB_AM,Joey G,"SI,BC",,B,
+2020-10-03,SHAB_AM,Jake Goldson,"AE,CR",,MA,
+2020-10-03,SHAB_AM,Ben Gil,"MB,YF",,2,
+2020-10-03,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-10-03,SHAB_PM,Zachery Perlstein,"YE,MB",Kitchen PM,1,
+2020-10-03,SHAB_PM,Nosson Weissman,MF,1st Floor & Elevator Clean up,2,3l
+2020-10-03,SHAB_PM,Moshe Brum,NL,Kitchen AM,3,3e
+2020-10-03,SHAB_PM,Joey G,"AE,YF",Living room,B,
+2020-10-03,SHAB_PM,Jake Goldson,SI,Restocking,MA,
+2020-10-03,SHAB_PM,Ben Gil,"BC,CR","Sanitizing , House Help",2,2e
+2020-10-03,SHAB_PM,Sruli Teitelbaum,YM,AMAP,FB,2l
+2020-10-04,SHAB_AM,Zachery Perlstein,"NL,BC",,1,
+2020-10-04,SHAB_AM,Nosson Weissman,"AE,CR",,2,
+2020-10-04,SHAB_AM,Moshe Brum,"YE,MB",,3,
+2020-10-04,SHAB_AM,Ben Gil,"SI,YF",,B,
+2020-10-04,SHAB_AM,Jake Goldson,"MF,YM",,MA,
+2020-10-04,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-10-04,SHAB_PM,Zachery Perlstein,"AE,CR",Bookbags,1,3l
+2020-10-04,SHAB_PM,Sruli Teitelbaum,"SI,BC",House Help,2,
+2020-10-04,SHAB_PM,Moshe Brum,NL,"Living Room , Basement",3,3e
+2020-10-04,SHAB_PM,Ben Gil,"YE,MB",Kitchen PM,B,2l
+2020-10-04,SHAB_PM,Jake Goldson,"MF,YM","1st Floor , Elevator",MA,2e
+2020-10-04,SHAB_PM,Nosson Weissman,YF,AMAP,FB,
+2020-10-09,FRI_PM,Sruli Teitelbaum,"ZW,YM",House Help,1,
+2020-10-09,FRI_PM,Pinhas Adout,DF,House Help,2,2l
+2020-10-09,FRI_PM,Yosef Gerecht,NL,"Restocking, Sanitizing",3,3e
+2020-10-09,FRI_PM,Yaakov Eiferman,"AE,CR","Living Room , Basement",B,2e
+2020-10-09,FRI_PM,Nosson Weissman,"MB,YE",Kitchen,MA,
+2020-10-09,FRI_PM,Zach Shulman,"SI,YF",1st Floor & Elevator Clean up,2,3l
+2020-10-09,FRI_PM,Matthew Davis,MF,Kitchen Help,3,
+2020-10-09,FRI_PM,Sruly A,BC (Matt D),AMAP,FB,
+2020-10-10,SHAB_AM,Sruly A,"ZW,CR",,1,
+2020-10-10,SHAB_AM,Sruli Teitelbaum,SI,,2,
+2020-10-10,SHAB_AM,Yosef Gerecht,"AE,YF",,3,
+2020-10-10,SHAB_AM,Yaakov Eiferman,"MB,YE",,B,
+2020-10-10,SHAB_AM,Nosson Weissman,MF,,MA,
+2020-10-10,SHAB_AM,Zach Shulman,"DF,YM",,2,
+2020-10-10,SHAB_AM,Matthew Davis,NL,,3,
+2020-10-10,SHAB_AM,Pinhas Adout,BC,AMAP,FB,
+2020-10-10,SHAB_PM,Sruly A,NL,1st Floor,1,3e
+2020-10-10,SHAB_PM,Pinhas Adout,MF,House Help,2,3l
+2020-10-10,SHAB_PM,Yosef Gerecht,"CF,YF",Living Room,3,
+2020-10-10,SHAB_PM,Yaakov Eiferman,SI,Sanitizing,B,
+2020-10-10,SHAB_PM,Nosson Weissman,"ZW,BC",Kitchen Help,MA,
+2020-10-10,SHAB_PM,Zach Shulman,"AE,CR",Kitchen AM,2,2e
+2020-10-10,SHAB_PM,Matthew Davis,"MB,YE",Kitchen PM,3,
+2020-10-10,SHAB_PM,Sruli Teitelbaum,YM (Matt),AMAP,FB,2l
+2020-10-11,SHAB_AM,Sruly A,"AE,YF",,1,
+2020-10-11,SHAB_AM,Zach Shulman,NL,,2,
+2020-10-11,SHAB_AM,Yosef Gerecht,"MB,YE",,3,
+2020-10-11,SHAB_AM,Yaakov Eiferman,"BC,CR",,B,
+2020-10-11,SHAB_AM,Nosson Weissman,"ZW,YF",,MA,
+2020-10-11,SHAB_AM,Sruli Teitelbaum,MF,,2,
+2020-10-11,SHAB_AM,Matthew Davis,SI,,3,
+2020-10-11,SHAB_AM,Pinhas Adout,DF,AMAP,FB,
+2020-10-11,SHAB_PM,Sruly A,"SI,YM","Restocking, Sanitizing",1,3e
+2020-10-11,SHAB_PM,Pinhas Adout,ZW,House Help,2,3y
+2020-10-11,SHAB_PM,Yosef Gerecht,NL,Lunches,3,
+2020-10-11,SHAB_PM,Yaakov Eiferman,MF (Sruli),"1st Floor, elevator",B,2l
+2020-10-11,SHAB_PM,Nosson Weissman,"DF,BC",Kitchen AM,MA,
+2020-10-11,SHAB_PM,Sruli Teitelbaum,"MB,YE","Living room, basement",2,
+2020-10-11,SHAB_PM,Matthew Davis,"AE,CR",Kitchen PM,3,2e
+2020-10-11,SHAB_PM,Zach Shulman,YF,AMAP,FB,
+2020-10-16,FRI_PM,Zach Shulman,NL,"Sanitizing, Restocking",1,3e
+2020-10-16,FRI_PM,Pinhas Adout,DF,House Help,2,2e
+2020-10-16,FRI_PM,Moshe Brum,"SI,BC","Empty Bookbags , Boxes",3,
+2020-10-16,FRI_PM,Yosef Gerecht,"ZW,YM",Kitchen Help,B,
+2020-10-16,FRI_PM,Zachery Perlstein,"MB,YE",Kitchen,MA,2l
+2020-10-16,FRI_PM,Ben Gil,NF,"1st Floor ,Elevator Clean up",2,
+2020-10-16,FRI_PM,Menachem Muller,"AE,CR","Living room , Basement Clean up",3,3l
+2020-10-16,FRI_PM,Nosson Weissman,YF,AMAP,FB,
+2020-10-17,SHAB_AM,Nosson Weissman,"ZW,MB",,1,
+2020-10-17,SHAB_AM,Zach Shulman,"AE,CR",,2,
+2020-10-17,SHAB_AM,Moshe Brum,NL,,3,
+2020-10-17,SHAB_AM,Yosef Gerecht,"DF,YF",,B,
+2020-10-17,SHAB_AM,Zachery Perlstein,MF,,MA,
+2020-10-17,SHAB_AM,Ben Gil,SI,,2,
+2020-10-17,SHAB_AM,Menachem Muller,"YE,YM",,3,
+2020-10-17,SHAB_AM,Pinhas Adout,BC,AMAP,FB,
+2020-10-17,SHAB_PM,Nosson Weissman,NL,Kitchen AM,1,3e
+2020-10-17,SHAB_PM,Pinhas Adout,MF,House Help,2,
+2020-10-17,SHAB_PM,Moshe Brum,YE.MB,"Living room, Basement",3,3l
+2020-10-17,SHAB_PM,Yosef Gerecht,"AE,CR","1st Floor, elevator",B,2e
+2020-10-17,SHAB_PM,Zachery Perlstein,"DF,BC",Kitchen PM,MA,
+2020-10-17,SHAB_PM,Ben Gil,"ZW,YF",Bookbags,2,2l
+2020-10-17,SHAB_PM,Menachem Muller,SI,Restocking,3,
+2020-10-17,SHAB_PM,Zach Shulman,YM,AMAP,FB,
+2020-10-23,FRI_PM,Yaakov Eiferman,"SI,BC",Sanitizing,1,
+2020-10-23,FRI_PM,Pinhas Adout,MF,House Help,2,
+2020-10-23,FRI_PM,Zach Shulman,"AE,CR","Empty Bookbags , 1st fl elevator",3,
+2020-10-23,FRI_PM,Zachery Perlstein,NL,"Living Room , Basement Clean up",B,
+2020-10-23,FRI_PM,Jake Goldson,"MB,YE",Kitchen,MA,
+2020-10-23,FRI_PM,Sruly A,YM,AMAP,FB,
+2020-10-24,SHAB_AM,Yaakov Eiferman,"MB,YE",,1,
+2020-10-24,SHAB_AM,Zach Shulman,NL,,2,
+2020-10-24,SHAB_AM,Sruly A,"AE,CR",,3,
+2020-10-24,SHAB_AM,Zachery Perlstein,"SI,YM",,B,
+2020-10-24,SHAB_AM,Jake Goldson,MF,,MA,
+2020-10-24,SHAB_AM,,,,2,
+2020-10-24,SHAB_AM,Pinhas Adout,BC,AMAP,FB,
+2020-10-24,SHAB_PM,Yaakov Eiferman,"AE,CR","1st fl, elevator",1,
+2020-10-24,SHAB_PM,Pinhas Adout,BC,Kitchen AM (PA),2,
+2020-10-24,SHAB_PM,Sruly A,NL,Living Room basement,3,
+2020-10-24,SHAB_PM,Zachery Perlstein,"MB,YE","Kitchen PM, Sanitizing",B,
+2020-10-24,SHAB_PM,Jake Goldson,SI,Bookbags,MA,
+2020-10-24,SHAB_PM,Sruli Teitelbaum,MF,"House help, Restocking",2,
+2020-10-24,SHAB_PM,Zach Shulman,YM,AMAP,FB,
+2020-10-30,FRI_PM,Nosson Weissman,"SI,BC","Sanitizing, Restocking",1,
+2020-10-30,FRI_PM,Pinhas Adout,"DF,ZW",House Help,2,"2e,2l"
+2020-10-30,FRI_PM,Yosef Gerecht,MF,"Empty Bookbags , Boxes",3,
+2020-10-30,FRI_PM,Moshe Brum,"AE,CR","Living Room , Basement Clean up",B,3l
+2020-10-30,FRI_PM,Zachery Perlstein,"MB,YE",Kitchen,MA,
+2020-10-30,FRI_PM,Zach Shulman,NL,"1st Floor , Elevator Clean up",2,3e
+2020-10-30,FRI_PM,Menachem Muller,YF,House Help,3,
+2020-10-30,FRI_PM,Sruly A,YM,AMAP,FB,
+2020-10-31,SHAB_AM,Sruly A,"DF,CR",,1,
+2020-10-31,SHAB_AM,Nosson Weissman,"MF,YM",,2,
+2020-10-31,SHAB_AM,Yosef Gerecht,SI,,3,
+2020-10-31,SHAB_AM,Moshe Brum,NL,,B,
+2020-10-31,SHAB_AM,Zachery Perlstein,"AE,YM",,MA,
+2020-10-31,SHAB_AM,Zach Shulman,"ZW,YF",,2,
+2020-10-31,SHAB_AM,Menachem Muller,"MB,YE",,3,
+2020-10-31,SHAB_AM,Pinhas Adout,BC,AMAP,FB,
+2020-10-31,SHAB_PM,Sruly A,"ZW,YF","Bookbags, Basement",1,3l
+2020-10-31,SHAB_PM,Pinhas Adout,MF,Sanitizing,2,
+2020-10-31,SHAB_PM,Yosef Gerecht,"AE,CR",Kitchen PM,3,2l
+2020-10-31,SHAB_PM,Moshe Brum,"MB,YE",Restocking,B,
+2020-10-31,SHAB_PM,Zachery Perlstein,"DF,BC",1st Floor elevator,MA,
+2020-10-31,SHAB_PM,Zach Shulman,SI,"Kitchen AM, Living room",2,
+2020-10-31,SHAB_PM,Menachem Muller,NL,Living room basement,3,3e
+2020-10-31,SHAB_PM,Nosson Weissman,YM,AMAP,FB,
+2020-11-06,FRI_PM,Moshe Brum,"YE,CR",Kitchen Help,1,
+2020-11-06,FRI_PM,David Kuras,"DF,ZW",House Help,2,
+2020-11-06,FRI_PM,Menachem Muller,"AE,YF","Empty Bookbags , Boxes",3,2e
+2020-11-06,FRI_PM,Zachery Perlstein,MF,Living Room,B,3l
+2020-11-06,FRI_PM,Nosson Weissman,"MB,BC",Kitchen,MA,2l
+2020-11-06,FRI_PM,Yosef Gerecht,NL,"1st Floor , Elevator Clean up BEFORE SHABBAT",2,3e
+2020-11-06,FRI_PM,Ben Gil,SI,"Restocking , Sanitizing",3,
+2020-11-06,FRI_PM,Zach Shulman,YM,AMAP,FB,
+2020-11-07,SHAB_AM,Moshe Brum,NL,,1,
+2020-11-07,SHAB_AM,Nosson Weissman,"DF,CR",,2,
+2020-11-07,SHAB_AM,Menachem Muller,SI,,3,
+2020-11-07,SHAB_AM,Zachery Perlstein,"YE,MB",,B,
+2020-11-07,SHAB_AM,Zach Shulman,"AE,YN",,MA,
+2020-11-07,SHAB_AM,Yosef Gerecht,"ZW,YF",,2,
+2020-11-07,SHAB_AM,Ben Gil,MF,,3,
+2020-11-07,SHAB_AM,David Kuras,BC,AMAP,FB,
+2020-11-07,SHAB_PM,Moshe Brum,"ZW,YF","1st Floor , eLevator",1,
+2020-11-07,SHAB_PM,David Kuras,MF,House Help,2,2e
+2020-11-07,SHAB_PM,Menachem Muller,"YE,MB",Bookbags,3,3l
+2020-11-07,SHAB_PM,Zachery Perlstein,SI,"Restocking , Sanitizing",B,
+2020-11-07,SHAB_PM,Zach Shulman,"DF,BC",Living Room basement,MA,2l
+2020-11-07,SHAB_PM,Yosef Gerecht,"AE,CR",Kitchen AM,2,3e
+2020-11-07,SHAB_PM,Ben Gil,NL,Kitchen PM,3,
+2020-11-07,SHAB_PM,Nosson Weissman,BC,AMAP,FB,
+2020-11-13,FRI_PM,Sruly A,"ZW,MB",Kitchen Help,1,
+2020-11-13,FRI_PM,Pinhas Adout,DF,House Help,2,2l
+2020-11-13,FRI_PM,Yaakov Eiferman,NL,"Empty Bookbags , Boxes",3,3e
+2020-11-13,FRI_PM,Zachery Perlstein,"SI,BC",Living Room,B,3l
+2020-11-13,FRI_PM,Ben Gil,"YE,YF",Kitchen,MA,2e
+2020-11-13,FRI_PM,Yosef Gerecht,MF,"1st Floor ,Elevator Clean up BEFORE SHABBAT",2,
+2020-11-13,FRI_PM,Moshe Brum,"AE,CR","Restocking , Sanitizing",3,
+2020-11-13,FRI_PM,Nachi Frankel,YM,AMAP,FB,
+2020-11-14,SHAB_AM,Nachi Frankel,NL,,1,
+2020-11-14,SHAB_AM,Sruly A,SI,,2,
+2020-11-14,SHAB_AM,Yaakov Eiferman,"CR,BC",,3,
+2020-11-14,SHAB_AM,Zachery Perlstein,MF,,B,
+2020-11-14,SHAB_AM,Ben Gil,"AE,YM",,MA,
+2020-11-14,SHAB_AM,Yosef Gerecht,"DF,YE",,2,
+2020-11-14,SHAB_AM,Moshe Brum,"MB,YF",,3,
+2020-11-14,SHAB_AM,Pinhas Adout,ZW,AMAP,FB,
+2020-11-14,SHAB_PM,Nachi Frankel,"ZW,CR",Restocking,1,2e
+2020-11-14,SHAB_PM,Pinhas Adout,MF,House Help,2,
+2020-11-14,SHAB_PM,Yaakov Eiferman,"AE,YF",Bookbags,3,
+2020-11-14,SHAB_PM,Zachery Perlstein,"YE,MB",Kitchen PM,B,
+2020-11-14,SHAB_PM,Ben Gil,"DF,BC","1st Floor, Elevator",MA,
+2020-11-14,SHAB_PM,Yosef Gerecht,NL,"Kitchen AM, Sanitizing",2,3e
+2020-11-14,SHAB_PM,Moshe Brum,SI,"Living Room, Basement",3,3l
+2020-11-14,SHAB_PM,Sruly A,YM,AMAP,FB,2l
+2020-11-20,FRI_PM,Ben Gil,NL,"1st Floor , Elevator Clean up BEFORE SHABBAT",1,
+2020-11-20,FRI_PM,Sruli Teitelbaum,DF,House Help,2,2l
+2020-11-20,FRI_PM,Zach Shulman,"AE,CR","Empty Bookbags , Boxes",3,2e
+2020-11-20,FRI_PM,Moshe Brum,MF,Kitchen Help,B,3e
+2020-11-20,FRI_PM,Zachery Perlstein,"YE,MB",Kitchen,MA,
+2020-11-20,FRI_PM,Yosef Gerecht,"SI,YM","Restocking, Sanitizing",2,3l
+2020-11-20,FRI_PM,Chaim Gralla,"ZW,YF","Living Room , Basement",3,
+2020-11-20,FRI_PM,Sruly A,BC,AMAP,FB,
+2020-11-21,SHAB_AM,Ben Gil,"AE,YM",,1,
+2020-11-21,SHAB_AM,Sruly A,"SI,BC",,2,
+2020-11-21,SHAB_AM,Zach Shulman,"DF,YF",,3,
+2020-11-21,SHAB_AM,Moshe Brum,"YE,MB",,B,
+2020-11-21,SHAB_AM,Zachery Perlstein,MF,,MA,
+2020-11-21,SHAB_AM,Yosef Gerecht,"ZW,CR",,2,
+2020-11-21,SHAB_AM,Chaim Gralla,NL,,3,
+2020-11-21,SHAB_AM,Sruli Teitelbaum,,AMAP,FB,
+2020-11-21,SHAB_PM,Ben Gil,"YE,MB",Kitchen PM,1,2l
+2020-11-21,SHAB_PM,Sruly A,"DF,YM","1st Floor , Elevator Clean up BEFORE SHABBAT",2,2e
+2020-11-21,SHAB_PM,Sruli Teitelbaum,ZW,House Help,3,
+2020-11-21,SHAB_PM,Moshe Brum,"AE,CR","Living Room , Basement",B,
+2020-11-21,SHAB_PM,Zachery Perlstein,"SI,YF","Bookbags , House Help",MA,3l
+2020-11-21,SHAB_PM,Yosef Gerecht,NL,Kitchen AM,2,
+2020-11-21,SHAB_PM,Chaim Gralla,MF,"Restocking , House Help",3,3e
+2020-11-21,SHAB_PM,Zach Shulman,BC,AMAP,FB,
+2020-11-27,FRI_PM,Yosef Gerecht,"AE,YE",Kitchen Help,1,
+2020-11-27,FRI_PM,Pinhas Adout,DF (Chaim),House Help,2,2e
+2020-11-27,FRI_PM,Zachery Perlstein,MF.YF,"Empty Bookbags , Boxes",3,2l
+2020-11-27,FRI_PM,Yaakov Eiferman,SI,"Living room, Restocking",B,
+2020-11-27,FRI_PM,Nosson Weissman,"MB,BC",Kitchen,MA,3l
+2020-11-27,FRI_PM,Menachem Muller,NL,"1st Floor , Elevator Clean up BEFORE SHABBAT",2,3e
+2020-11-27,FRI_PM,Ben Gil,"ZW,CR","Restocking , Sanitizing",3,
+2020-11-27,FRI_PM,Zach Shulman,YM,AMAP,FB,
+2020-11-28,SHAB_AM,Yosef Gerecht,MF,,1,
+2020-11-28,SHAB_AM,Nosson Weissman,"DF,YM",,2,
+2020-11-28,SHAB_AM,Zachery Perlstein,NL (chaim),,3,
+2020-11-28,SHAB_AM,Yaakov Eiferman,"MB,YF",,B,
+2020-11-28,SHAB_AM,Zach Shulman,"YE,CR",,MA,
+2020-11-28,SHAB_AM,Menachem Muller,SI,,2,
+2020-11-28,SHAB_AM,Ben Gil,"AE,BC",,3,
+2020-11-28,SHAB_AM,Pinhas Adout,ZW,AMAP,FB,
+2020-11-28,SHAB_PM,Yosef Gerecht,"DF,YF","Restocking, Sanitizing",1,2e
+2020-11-28,SHAB_PM,Pinhas Adout,MF,House Help,2,
+2020-11-28,SHAB_PM,Zachery Perlstein,"YE,MB",Kitchen PM,3,
+2020-11-28,SHAB_PM,Yaakov Eiferman,NL,Kitchen AM,B,3e
+2020-11-28,SHAB_PM,Zach Shulman,"ZW,YM",Bookbags,MA,3l
+2020-11-28,SHAB_PM,Menachem Muller,"AE,CR","1st Floor, elevator",2,
+2020-11-28,SHAB_PM,Ben Gil,SI,"Living Room, Basement",3,2l
+2020-11-28,SHAB_PM,Nosson Weissman,BC,AMAP,FB,
+2020-12-04,FRI_PM,Zachery Perlstein,"ZW,YE",Kitchen Help,1,
+2020-12-04,FRI_PM,Pinhas Adout,DF,House Help,2,2e
+2020-12-04,FRI_PM,Yaakov Eiferman,"AE,CR","Empty Bookbags , Boxes",3,2l
+2020-12-04,FRI_PM,Moshe Brum,NL,Living room,B,3e
+2020-12-04,FRI_PM,Menachem Muller,"MB,BC",Kitchen,MA,
+2020-12-04,FRI_PM,Sruly A,SI,"1st Floor , Elevator Clean up BEFORE SHABBAT",2,3l
+2020-12-04,FRI_PM,Nosson Weissman,"MF,YF","Restocking , Sanitizing",3,
+2020-12-04,FRI_PM,Nachi Frankel,YM,AMAP,FB,
+2020-12-05,SHAB_AM,Zachery Perlstein,MF,,1,
+2020-12-05,SHAB_AM,Sruly A,"AE,CR",,2,
+2020-12-05,SHAB_AM,Yaakov Eiferman,SI,,3,
+2020-12-05,SHAB_AM,Moshe Brum,"YE,MB",,B,
+2020-12-05,SHAB_AM,Menachem Muller,NL,,MA,
+2020-12-05,SHAB_AM,Nachi Frankel,"DF,YM",,2,
+2020-12-05,SHAB_AM,Nosson Weissman,"YF,BC",,3,
+2020-12-05,SHAB_AM,Pinhas Adout,ZW,AMAP,FB,
+2020-12-05,SHAB_PM,Zachery Perlstein,"DF,CR","Restocking, Sanitizing",1,3l
+2020-12-05,SHAB_PM,Pinhas Adout,MF,House Help,2,
+2020-12-05,SHAB_PM,Yaakov Eiferman,"YE,MB","1st Floor, elevator",3,
+2020-12-05,SHAB_PM,Moshe Brum,SI,"Kitchen AM, Boxes",B,
+2020-12-05,SHAB_PM,Menachem Muller,"AE,BC","Living Room, Basement",MA,2e
+2020-12-05,SHAB_PM,Nachi Frankel,NL,Bookbags,2,3e
+2020-12-05,SHAB_PM,Nosson Weissman,"ZW,YM",Kitchen PM,3,2l
+2020-12-05,SHAB_PM,Sruly A,YF,AMAP,FB,
+2020-12-11,FRI_PM,Joey G,NL,Kitchen Help,1,
+2020-12-11,FRI_PM,Matthew Davis,"MF,BC",House Help,2,
+2020-12-11,FRI_PM,Matthew Davis,"MF,BC","Empty Bookbags , Boxes",3,
+2020-12-11,FRI_PM,Zach Shulman,"AE,CR",Living Room,B,2l
+2020-12-11,FRI_PM,Sruli Teitelbaum,YE,Kitchen,MA,2e
+2020-12-11,FRI_PM,,,"1st Floor , Elevator Clean up BEFORE SHABBAT",2,
+2020-12-11,FRI_PM,,,"Restocking , Sanitizing",3,
+2020-12-11,FRI_PM,Daniel Wood,YF,AMAP,FB,
+2020-12-12,SHAB_AM,Joey G,MF,,1,
+2020-12-12,SHAB_AM,Matthew Davis,"AE,CR",,2,
+2020-12-12,SHAB_AM,Matthew Davis,"AE,CR",,3,
+2020-12-12,SHAB_AM,Zach Shulman,"YE,YF",,B,
+2020-12-12,SHAB_AM,Daniel Wood,NL,,MA,
+2020-12-12,SHAB_AM,,,,2,
+2020-12-12,SHAB_AM,,,,3,
+2020-12-12,SHAB_AM,Sruli Teitelbaum,BC,AMAP,FB,
+2020-12-12,SHAB_PM,Joey G,NL,,1,3e
+2020-12-12,SHAB_PM,Matthew Davis,"YE,YF",,2,3l
+2020-12-12,SHAB_PM,Matthew Davis,"YE,YF",,3,
+2020-12-12,SHAB_PM,Sruli Teitelbaum,MF,,B,
+2020-12-12,SHAB_PM,Daniel Wood,"AE,CR",,MA,2l
+2020-12-12,SHAB_PM,,,,2,
+2020-12-12,SHAB_PM,,,,3,
+2020-12-12,SHAB_PM,Zach Shulman,BC,AMAP,FB,
+2020-12-18,FRI_PM,Moshe Brum,"YF,BC (helpw AE,CR)",Kitchen Help,1,
+2020-12-18,FRI_PM,Pinhas Adout,"DF,ZW",House Help,2,
+2020-12-18,FRI_PM,Yosef Gerecht,SI,"Empty Bookbags , Boxes",3,
+2020-12-18,FRI_PM,Yaakov Eiferman,MF,Living room,B,
+2020-12-18,FRI_PM,Ben Gil,"YE,MB",Kitchen,MA,
+2020-12-18,FRI_PM,Zach Shulman,NL,"1st Floor , Elevator Clean up BEFORE SHABBAT",2,
+2020-12-18,FRI_PM,David Kuras,"AE,CR","Restocking, Sanitizing",3,
+2020-12-18,FRI_PM,Chaim Gralla,YM,AMAP,FB,
+2020-12-19,SHAB_AM,Moshe Brum,NL,,1,
+2020-12-19,SHAB_AM,Zach Shulman,"DF,YM",,2,
+2020-12-19,SHAB_AM,Yosef Gerecht,"YE,MB",,3,
+2020-12-19,SHAB_AM,Yaakov Eiferman,"AE,CR",,B,
+2020-12-19,SHAB_AM,Ben Gil,"MF,BC",,MA,
+2020-12-19,SHAB_AM,Chaim Gralla,"SI,YF",,2,
+2020-12-19,SHAB_AM,Pinhas Adout,ZW,AMAP,FB,
+2020-12-19,SHAB_PM,Moshe Brum,"YE,MB",Kitchen PM,1,
+2020-12-19,SHAB_PM,Pinhas Adout,"MF,ZW",House Help,2,
+2020-12-19,SHAB_PM,Yosef Gerecht,"DF,BC","Kitchen AM, Restocking",3,
+2020-12-19,SHAB_PM,Yaakov Eiferman,"SI,YF","Living Room, Basement",B,
+2020-12-19,SHAB_PM,Ben Gil,"AE,CR",1st Floor Elevator,MA,
+2020-12-19,SHAB_PM,Chaim Gralla,NL,"Bookbags, Boxes",2,
+2020-12-19,SHAB_PM,Zach Shulman,YM,AMAP,FB,

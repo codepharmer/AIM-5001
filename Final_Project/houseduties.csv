@@ -1,0 +1,12 @@
+DutyID,DutyName,DutyDifficulty,DutyShiftType
+1,--,0,Other
+2,AMAP,8,AM
+3,Kitchen,6,PM
+4,Bookbags,4,PM
+5,Restocking,4,Shabbos
+6,Living Room,2,PM
+7,Van Clean Up,3,PM
+8,House Help,1,AM
+9,Boxes and Garbages,5,PM
+10,AMAP,8,PM
+11,Lunches,6,PM
